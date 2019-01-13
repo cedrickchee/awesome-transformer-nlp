@@ -2,7 +2,11 @@
 
 This repository contains a hand-curated of great machine (deep) learning resources for Natural Language Processing (NLP) with a focus on Bidirectional Encoder Representations from Transformers (BERT), attention mechanism, Transformer architectures/networks, and transfer learning in NLP.
 
-# Contents
+# Table of Contents
+
+<details>
+
+<summary><b>Expand Table of Contents</b></summary>
 
 - [Papers](#papers)
 - [Articles](#articles)
@@ -24,6 +28,7 @@ This repository contains a hand-curated of great machine (deep) learning resourc
   - [Text Generation](#text-generation)
   - [Question Answering (QA)](#question-answering-qa)
   - [Knowledge Graph](#knowledge-graph)
+</details>
 
 ---
 
@@ -101,10 +106,11 @@ As Jay Alammar put it:
 >
 > NLP finally had a way to do transfer learning probably as well as Computer Vision could.
 
-https://thegradient.pub/nlp-imagenet/
-
 ## Other Resources
 
+<details>
+
+<summary><b>Expand Other Resources</b></summary>
 1. [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service) - Mapping a variable-length sentence to a fixed-length vector using pretrained BERT model.
 2. [brightmart/bert_language_understanding](https://github.com/brightmart/bert_language_understanding) - Pre-training of Deep Bidirectional Transformers for Language Understanding: pre-train TextCNN.
 3. [algteam/bert-examples](https://github.com/algteam/bert-examples) - BERT examples.
@@ -121,6 +127,7 @@ https://thegradient.pub/nlp-imagenet/
 14. [zhongyunuestc/bert_multitask](https://github.com/zhongyunuestc/bert_multitask) - Multi-task.
 15. [Microsoft/AzureML-BERT](https://github.com/Microsoft/AzureML-BERT) - End-to-end walk through for fine-tuning BERT using Azure Machine Learning.
 16. [bigboNed3/bert_serving](https://github.com/bigboNed3/bert_serving) - Export BERT model for serving.
+</details>
 
 ## Tools 
 
@@ -130,6 +137,9 @@ https://thegradient.pub/nlp-imagenet/
 
 ### Named-Entity Recognition (NER)
 
+<details>
+
+<summary><b>Expand NER</b></summary>
 1. [kyzhouhzau/BERT-NER](https://github.com/kyzhouhzau/BERT-NER) - Use google BERT to do CoNLL-2003 NER.
 2. [zhpmatrix/bert-sequence-tagging](https://github.com/zhpmatrix/bert-sequence-tagging) - Chinese sequence labeling.
 3. [JamesGu14/BERT-NER-CLI](https://github.com/JamesGu14/BERT-NER-CLI) - Bert NER command line tester with step by step setup guide.
@@ -139,9 +149,13 @@ https://thegradient.pub/nlp-imagenet/
 7. [ProHiryu/bert-chinese-ner](https://github.com/ProHiryu/bert-chinese-ner) - Use the pre-trained language model BERT to do Chinese NER.
 8. [FuYanzhe2/Name-Entity-Recognition](https://github.com/FuYanzhe2/Name-Entity-Recognition) - Lstm-CRF, Lattice-CRF, recent NER related papers.
 9. [king-menin/ner-bert](https://github.com/king-menin/ner-bert) - NER task solution (BERT-Bi-LSTM-CRF) with Google BERT https://github.com/google-research.
+</details>
 
 ### Classification
 
+<details>
+
+<summary><b>Expand Classification</b></summary>
 1. [brightmart/sentiment_analysis_fine_grain](https://github.com/brightmart/sentiment_analysis_fine_grain) - Multi-label classification with BERT; Fine Grained Sentiment Analysis from AI challenger.
 2. [zhpmatrix/Kaggle-Quora-Insincere-Questions-Classification](https://github.com/zhpmatrix/Kaggle-Quora-Insincere-Questions-Classification) - Kaggle baseline—fine-tuning BERT and tensor2tensor based Transformer encoder solution.
 3. [maksna/bert-fine-tuning-for-chinese-multiclass-classification](https://github.com/maksna/bert-fine-tuning-for-chinese-multiclass-classification) - Use Google pre-training model BERT to fine-tune for the Chinese multiclass classification.
@@ -149,24 +163,41 @@ https://thegradient.pub/nlp-imagenet/
 5. [fooSynaptic/BERT_classifer_trial](https://github.com/fooSynaptic/BERT_classifer_trial) - BERT trial for Chinese corpus classfication.
 6. [xiaopingzhong/bert-finetune-for-classfier](https://github.com/xiaopingzhong/bert-finetune-for-classfier) - Fine-tuning the BERT model while building your own dataset for classification.
 7. [Socialbird-AILab/BERT-Classification-Tutorial](https://github.com/Socialbird-AILab/BERT-Classification-Tutorial) - Tutorial.
+</details>
 
 ### Text Generation
 
+<details>
+
+<summary><b>Expand Text Generation</b></summary>
 1. [asyml/texar](https://github.com/asyml/texar) - Toolkit for Text Generation and Beyond. [Texar](https://texar.io) is a general-purpose text generation toolkit, has also implemented BERT here for classification, and text generation applications by combining with Texar's other modules.
+</details>
 
 ### Question Answering (QA)
 
+<details>
+
+<summary><b>Expand QA</b></summary>
 1. [matthew-z/R-net](https://github.com/matthew-z/R-net) - R-net in PyTorch, with BERT and ELMo.
 2. [vliu15/BERT](https://github.com/vliu15/BERT) - TensorFlow implementation of BERT for QA.
 3. [benywon/ChineseBert](https://github.com/benywon/ChineseBert) - This is a Chinese BERT model specific for question answering.
 4. [xzp27/BERT-for-Chinese-Question-Answering](https://github.com/xzp27/BERT-for-Chinese-Question-Answering)
+</details>
 
 ### Knowledge Graph
 
+<details>
+
+<summary><b>Expand Knowledge Graph</b></summary>
 1. [sakuranew/BERT-AttributeExtraction](https://github.com/sakuranew/BERT-AttributeExtraction) - Using BERT for attribute extraction in knowledge graph. Fine-tuning and feature extraction. The BERT-based fine-tuning and feature extraction methods are used to extract knowledge attributes of Baidu Encyclopedia characters.
 2. [lvjianxin/Knowledge-extraction](https://github.com/lvjianxin/Knowledge-extraction) - Chinese knowledge-based extraction. Baseline: bi-LSTM+CRF upgrade: BERT pre-training.
+</details>
 
 ## License
+
+<details>
+
+<summary><b>Expand License</b></summary>
 
 This repository contains a variety of content; some developed by Cedric Chee, and some from third-parties. The third-party content is distributed under the license provided by those parties.
 
@@ -181,3 +212,4 @@ The code in this repository, including all code samples in the notebooks listed 
 ### Text
 
 The text content of the book is released under the CC-BY-NC-ND license. Read more at [Creative Commons](https://creativecommons.org/licenses/by-nc-nd/3.0/us/legalcode).
+</details>
