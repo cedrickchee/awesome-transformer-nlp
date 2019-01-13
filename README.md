@@ -1,6 +1,6 @@
-# Awesome Bidirectional Encoder Representations from Transformers (BERT) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome BERT & Transfer Learning in NLP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This repository contains a hand-curated of great machine (deep) learning resources for Natural Language Processing (NLP) with a focus on BERT, attention mechanism, Transformer architectures/networks, and transfer learning.
+This repository contains a hand-curated of great machine (deep) learning resources for Natural Language Processing (NLP) with a focus on Bidirectional Encoder Representations from Transformers (BERT), attention mechanism, Transformer architectures/networks, and transfer learning in NLP.
 
 # Contents
 
@@ -15,11 +15,12 @@ This repository contains a hand-curated of great machine (deep) learning resourc
   - [Keras](#keras)
   - [TensorFlow](#tensorflow)
   - [Chainer](#chainer)
+- [Transfer Learning in NLP](#transfer-learning-in-nlp)
 - [Other Resources](#other-resources)
 - [Tools](#tools)
 - [Tasks](#tasks)
   - [Named-Entity Recognition (NER)](#named-entity-recognition-ner)
-  - [Classification](#classification]
+  - [Classification](#classification)
   - [Text Generation](#text-generation)
   - [Question Answering (QA)](#question-answering-qa)
   - [Knowledge Graph](#knowledge-graph)
@@ -83,6 +84,24 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 ### Chainer
 
 1. [soskek/bert-chainer](https://github.com/soskek/bert-chainer) - Chainer implementation of "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding".
+
+## Transfer Learning in NLP
+
+As Jay Alammar put it:
+
+> The year 2018 has been an inflection point for machine learning models handling text (or more accurately, Natural Language Processing or NLP for short). Our conceptual understanding of how best to represent words and sentences in a way that best captures underlying meanings and relationships is rapidly evolving. Moreover, the NLP community has been putting forward incredibly powerful components that you can freely download and use in your own models and pipelines (It's been referred to as [NLP's ImageNet moment](http://ruder.io/nlp-imagenet/), referencing how years ago similar developments accelerated the development of machine learning in Computer Vision tasks).
+>
+> One of the latest milestones in this development is the [release](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) of [BERT](https://github.com/google-research/bert), an event [described](https://twitter.com/lmthang/status/1050543868041555969) as marking the beginning of a new era in NLP. BERT is a model that broke several records for how well models can handle language-based tasks. Soon after the release of the paper describing the model, the team also open-sourced the code of the model, and made available for download versions of the model that were already pre-trained on massive datasets. This is a momentous development since it enables anyone building a machine learning model involving language processing to use this powerhouse as a readily-available component – saving the time, energy, knowledge, and resources that would have gone to training a language-processing model from scratch.
+>
+> BERT builds on top of a number of clever ideas that have been bubbling up in the NLP community recently – including but not limited to [Semi-supervised Sequence Learning](https://arxiv.org/abs/1511.01432) (by [Andrew Dai](https://twitter.com/iamandrewdai) and [Quoc Le](https://twitter.com/quocleix)), [ELMo](https://arxiv.org/abs/1802.05365) (by Matthew Peters and researchers from [AI2](https://allenai.org/) and [UW CSE](https://www.engr.washington.edu/about/bldgs/cse)), [ULMFiT](https://arxiv.org/abs/1801.06146) (by [fast.ai](https://fast.ai) founder [Jeremy Howard](https://twitter.com/jeremyphoward) and [Sebastian Ruder](https://twitter.com/seb_ruder)), the [OpenAI transformer](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) (by OpenAI researchers [Radford](https://twitter.com/alecrad), [Narasimhan](https://twitter.com/karthik_r_n), [Salimans](https://twitter.com/timsalimans), and [Sutskever](https://twitter.com/ilyasut)), and the Transformer ([Vaswani et al](https://arxiv.org/abs/1706.03762)).
+>
+> **ULMFiT: Nailing down Transfer Learning in NLP**
+>
+> [ULMFiT introduced methods to effectively utilize a lot of what the model learns during pre-training](http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html) – more than just embeddings, and more than contextualized embeddings. ULMFiT introduced a language model and a process to effectively fine-tune that language model for various tasks.
+>
+> NLP finally had a way to do transfer learning probably as well as Computer Vision could.
+
+https://thegradient.pub/nlp-imagenet/
 
 ## Other Resources
 
