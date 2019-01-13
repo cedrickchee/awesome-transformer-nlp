@@ -18,10 +18,10 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 - [Other Resources](#other-resources)
 - [Tools](#tools)
 - [Tasks](#tasks)
-  - [Named-Entity Recognition (NER)](#named--entity-recognition-(ner))
+  - [Named-Entity Recognition (NER)](#named-entity-recognition-ner)
   - [Classification](#classification]
   - [Text Generation](#text-generation)
-  - [Question Answering (QA)](#question-answering-(qa))
+  - [Question Answering (QA)](#question-answering-qa)
   - [Knowledge Graph](#knowledge-graph)
 
 ---
