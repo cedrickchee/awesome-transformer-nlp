@@ -1,6 +1,30 @@
-# Awesome Bidirectional Encoder Representations from Transformers (BERT)
+# Awesome Bidirectional Encoder Representations from Transformers (BERT) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This repository contains a hand-curated of great machine (deep) learning resources for Natural Language Processing (NLP) with a focus on BERT, attention mechanism, and Transformer architectures/networks.
+This repository contains a hand-curated of great machine (deep) learning resources for Natural Language Processing (NLP) with a focus on BERT, attention mechanism, Transformer architectures/networks, and transfer learning.
+
+# Contents
+
+- [Papers](#papers)
+- [Articles](#articles)
+  - [BERT and Transformer](#bert-and-transformer)
+  - [Attention Concept](#attention-concept)
+  - [Transformer Architecture](#transformer-architecture)
+- [Official Implementations](#official-implementations)
+- [Other Implementations](#other-implementations)
+  - [PyTorch](#pytorch)
+  - [Keras](#keras)
+  - [TensorFlow](#tensorflow)
+  - [Chainer](#chainer)
+- [Other Resources](#other-resources)
+- [Tools](#tools)
+- [Tasks](#tasks)
+  - [Named-Entity Recognition (NER)](#named--entity-recognition-(ner))
+  - [Classification](#classification]
+  - [Text Generation](#text-generation)
+  - [Question Answering (QA)](#question-answering-(qa))
+  - [Knowledge Graph](#knowledge-graph)
+
+---
 
 ## Papers
 
@@ -35,7 +59,7 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 
 1. [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT.
 
-## Other/Unofficial Implementations
+## Other Implementations
 
 ### PyTorch
 
