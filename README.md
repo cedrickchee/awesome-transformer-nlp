@@ -45,6 +45,20 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 6. [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237) by Zhilin Yang, Zihang Dai, Yiming Yang, Jaime Carbonell, Ruslan Salakhutdinov, Quoc V. Le.
   - A new pretraining method for NLP that significantly improves upon BERT on 20 tasks (e.g., SQuAD, GLUE, RACE).
   - "Transformer-XL is a shifted model (each hyper-column ends with next token) while XLNet is a direct model (each hyper-column ends with contextual representation of same token)." — [Thomas Wolf](https://twitter.com/Thom_Wolf/status/1141803437719506944?s=20).
+  - [Comments from HN](https://news.ycombinator.com/item?id=20229145):
+    <details>
+  
+    <summary>A clever dual masking-and-caching algorithm.</summary>
+
+    - This is NOT "just throwing more compute" at the problem.
+    - The authors have devised a clever dual-masking-plus-caching mechanism to induce an attention-based model to learn to predict tokens from all possible permutations of the factorization order of all other tokens in the same input sequence.
+    - In expectation, the model learns to gather information from all positions on both sides of each token in order to predict the token.
+      - For example, if the input sequence has four tokens, ["The", "cat", "is", "furry"], in one training step the model will try to predict "is" after seeing "The", then "cat", then "furry".
+      - In another training step, the model might see "furry" first, then "The", then "cat".
+      - Note that the original sequence order is always retained, e.g., the model always knows that "furry" is the fourth token.
+    - The masking-and-caching algorithm that accomplishes this does not seem trivial to me.
+    - The improvements to SOTA performance in a range of tasks are significant -- see tables 2, 3, 4, 5, and 6 in the paper.
+    </details>
 
 ## Articles
 
