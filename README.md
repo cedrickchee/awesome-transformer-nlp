@@ -13,6 +13,8 @@ This repository contains a hand-curated of great machine (deep) learning resourc
   - [BERT and Transformer](#bert-and-transformer)
   - [Attention Concept](#attention-concept)
   - [Transformer Architecture](#transformer-architecture)
+- [Videos](#videos)
+  - [BERTology](#bertology)
 - [Official Implementations](#official-implementations)
 - [Other Implementations](#other-implementations)
   - [PyTorch](#pytorch)
@@ -69,6 +71,8 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 3. [Dissecting BERT](https://medium.com/dissecting-bert) by Miguel Romero and Francisco Ingham - Understand BERT in depth with an intuitive, straightforward explanation of the relevant concepts.
 3. [A Light Introduction to Transformer-XL](https://medium.com/dair-ai/a-light-introduction-to-transformer-xl-be5737feb13).
 4. [Generalized Language Models](https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html) by Lilian Weng, Research Scientist at OpenAI.
+5. [What is XLNet and why it outperforms BERT](https://towardsdatascience.com/what-is-xlnet-and-why-it-outperforms-bert-8d8fce710335)
+  - Permutation Language Modeling objective is the core of XLNet.
 
 ### Attention Concept
 
@@ -94,6 +98,13 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 
 1. [How to Build OpenAI's GPT-2: "The AI That's Too Dangerous to Release"](https://www.reddit.com/r/MachineLearning/comments/bj0dsa/d_how_to_build_openais_gpt2_the_ai_thats_too/).
 2. [OpenAI’s GPT2 - Food to Media hype or Wake Up Call?](https://www.skynettoday.com/briefs/gpt2)
+
+## Videos
+
+### [BERTology](https://github.com/huggingface/pytorch-pretrained-BERT#bertology)
+
+1. [XLNet Explained](https://www.youtube.com/watch?v=naOuE9gLbZo) by NLP Breakfasts.
+  - Clear explanation. Also covers the two-stream self-attention idea.
 
 ## Official Implementations
 
