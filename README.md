@@ -114,7 +114,7 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 
 ### PyTorch
 
-1. [huggingface/pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT) - A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models by Hugging Face.
+1. [huggingface/pytorch-transformers](https://github.com/huggingface/pytorch-transformers) - PyTorch-Transformers (formerly known as [pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT)) is a library of state-of-the-art pre-trained models for NLP by Hugging Face. It currently contains PyTorch implementations, pre-trained model weights, usage scripts and conversion utilities for 6 Transformer architectures (BERT, GPT, GPT-2, Transfo-XL, XLNet, XLM) and 27 pretrained models, all under one unified API.
 2. [codertimo/BERT-pytorch](https://github.com/codertimo/BERT-pytorch) - Google AI 2018 BERT pytorch implementation.
 3. [innodatalabs/tbert](https://github.com/innodatalabs/tbert) - PyTorch port of BERT ML model.
 4. [kimiyoung/transformer-xl](https://github.com/kimiyoung/transformer-xl) - Code repository associated with the Transformer-XL paper.
