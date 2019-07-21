@@ -98,6 +98,9 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 
 1. [How to Build OpenAI's GPT-2: "The AI That's Too Dangerous to Release"](https://www.reddit.com/r/MachineLearning/comments/bj0dsa/d_how_to_build_openais_gpt2_the_ai_thats_too/).
 2. [OpenAI’s GPT2 - Food to Media hype or Wake Up Call?](https://www.skynettoday.com/briefs/gpt2)
+3. [How the Transformers broke NLP leaderboards](https://hackingsemantics.xyz/2019/leaderboards/) by Anna Rogers. :fire::fire::fire:
+- A well put summary post on problems with large models that dominate NLP these days.
+- Larger models + more data = progress in Machine Learning research :question:
 
 ## Videos
 
