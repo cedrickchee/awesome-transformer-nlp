@@ -92,7 +92,8 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 
 1. [Better Language Models and Their Implications](https://openai.com/blog/better-language-models/).
 2. [Improving Language Understanding with Unsupervised Learning](https://blog.openai.com/language-unsupervised/) - this is an overview of the original GPT model.
-2. [🦄 How to build a State-of-the-Art Conversational AI with Transfer Learning](https://convai.huggingface.co/) by Hugging Face.
+3. [🦄 How to build a State-of-the-Art Conversational AI with Transfer Learning](https://convai.huggingface.co/) by Hugging Face.
+4. [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/) by Jay Alammar.
 
 ### Additional Reading
 
