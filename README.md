@@ -104,6 +104,7 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 3. [How the Transformers broke NLP leaderboards](https://hackingsemantics.xyz/2019/leaderboards/) by Anna Rogers. :fire::fire::fire:
 - A well put summary post on problems with large models that dominate NLP these days.
 - Larger models + more data = progress in Machine Learning research :question:
+4. [Transformers From Scratch](http://www.peterbloem.nl/blog/transformers) tutorial by Peter Bloem.
 
 ## Videos
 
