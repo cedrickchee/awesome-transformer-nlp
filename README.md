@@ -106,6 +106,7 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 - A well put summary post on problems with large models that dominate NLP these days.
 - Larger models + more data = progress in Machine Learning research :question:
 4. [Transformers From Scratch](http://www.peterbloem.nl/blog/transformers) tutorial by Peter Bloem.
+5. [Real-time Natural Language Understanding with BERT using NVIDIA TensorRT](https://devblogs.nvidia.com/nlu-with-tensorrt-bert/) on Google Cloud T4 GPUs achieves 2.2 ms latency for inference. Optimizations are open source on GitHub.
 
 ## Videos
 
