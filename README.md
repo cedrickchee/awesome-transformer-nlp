@@ -17,6 +17,7 @@ This repository contains a hand-curated of great machine (deep) learning resourc
   - [BERTology](#bertology)
 - [Official Implementations](#official-implementations)
 - [Other Implementations](#other-implementations)
+  - [PyTorch and TensorFlow](#pytorch-and-tensorflow)
   - [PyTorch](#pytorch)
   - [Keras](#keras)
   - [TensorFlow](#tensorflow)
@@ -140,7 +141,7 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 6. [pingpong-ai/xlnet-pytorch](https://github.com/pingpong-ai/xlnet-pytorch) - A Pytorch implementation of Google Brain XLNet.
 7. [facebook/fairseq](https://github.com/pytorch/fairseq/blob/master/examples/roberta/README.md) - RoBERTa: A Robustly Optimized BERT Pretraining Approach by Facebook AI Research. SoTA results on GLUE, SQuAD and RACE.
 8. [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer language models at scale, including: BERT.
-9. [deepset-ai/FARM](https://github.com/deepset-ai/FARM) - Simple & flexible transfer learning for the industry
+9. [deepset-ai/FARM](https://github.com/deepset-ai/FARM) - Simple & flexible transfer learning for the industry.
 
 ### Keras
 
