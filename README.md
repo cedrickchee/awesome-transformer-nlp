@@ -202,7 +202,7 @@ As Jay Alammar put it:
 
 ## Tools 
 
-1. [jessevig/bertviz](https://github.com/jessevig/bertviz) - Tool for visualizing BERT's attention.
+1. [jessevig/bertviz](https://github.com/jessevig/bertviz) - Tool for visualizing attention in the Transformer model.
 2. [FastBert](https://github.com/kaushaltrivedi/fast-bert) - A simple deep learning library that allows developers and data scientists to train and deploy BERT based models for NLP tasks beginning with text classification. The work on FastBert is inspired by fast.ai.
 
 ## Tasks
