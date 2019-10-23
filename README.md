@@ -179,6 +179,8 @@ As Jay Alammar put it:
 >
 > NLP finally had a way to do transfer learning probably as well as Computer Vision could.
 
+[MultiFiT: Efficient Multi-lingual Language Model Fine-tuning](http://nlp.fast.ai/classification/2019/09/10/multifit.html) by Sebastian Ruder et al. MultiFiT extends ULMFiT to make it more efficient and more suitable for language modelling beyond English. ([EMNLP 2019 paper](https://arxiv.org/abs/1909.04761))
+
 ## Other Resources
 
 <details>
