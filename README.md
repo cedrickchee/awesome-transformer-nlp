@@ -262,6 +262,7 @@ As Jay Alammar put it:
 <summary><b>Expand Text Generation</b></summary>
 
 1. [asyml/texar](https://github.com/asyml/texar) - Toolkit for Text Generation and Beyond. [Texar](https://texar.io) is a general-purpose text generation toolkit, has also implemented BERT here for classification, and text generation applications by combining with Texar's other modules.
+2. [Plug and Play Language Models: a Simple Approach to Controlled Text Generation](https://arxiv.org/abs/1912.02164) (PPLM) paper by Uber AI.
 </details>
 
 ### Question Answering (QA)
