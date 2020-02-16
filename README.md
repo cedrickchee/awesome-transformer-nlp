@@ -136,7 +136,7 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 
 ## Videos
 
-### [BERTology](https://github.com/huggingface/pytorch-pretrained-BERT#bertology)
+### [BERTology](https://huggingface.co/transformers/bertology.html)
 
 1. [XLNet Explained](https://www.youtube.com/watch?v=naOuE9gLbZo) by NLP Breakfasts.
   - Clear explanation. Also covers the two-stream self-attention idea.
