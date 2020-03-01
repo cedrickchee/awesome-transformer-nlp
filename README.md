@@ -73,6 +73,7 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 11. [Supervised Multimodal Bitransformers for Classifying Images and Text](https://arxiv.org/abs/1909.02950) (MMBT) by Facebook AI.
 11. [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/abs/2002.12327) by Anna Rogers et al.
 - "Have you been drowning in BERT papers?". The group survey over 40 papers on BERT's linguistic knowledge, architecture tweaks, compression, multilinguality, and so on.
+12. [tomohideshibata/BERT-related papers](https://github.com/tomohideshibata/BERT-related-papers)
 
 ## Articles
 
