@@ -152,6 +152,8 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 
 1. [XLNet Explained](https://www.youtube.com/watch?v=naOuE9gLbZo) by NLP Breakfasts.
   - Clear explanation. Also covers the two-stream self-attention idea.
+2. [The Future of NLP](https://youtu.be/G5lmya6eKtc) by 🤗
+  - Dense overview of what is going on in transfer learning in NLP currently, limits, and future directions.
 
 ## Official Implementations
 
