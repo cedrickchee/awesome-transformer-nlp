@@ -32,6 +32,7 @@ This repository contains a hand-curated of great machine (deep) learning resourc
   - [TensorFlow](#tensorflow)
   - [Chainer](#chainer)
 - [Transfer Learning in NLP](#transfer-learning-in-nlp)
+- [Books](#books)
 - [Other Resources](#other-resources)
 - [Tools](#tools)
 - [Tasks](#tasks)
@@ -217,7 +218,7 @@ As Jay Alammar put it:
 
 ## Books
 
-[Transfer Learning for Natural Language Processing](https://www.manning.com/books/transfer-learning-for-natural-language-processing) - A book that is a practical primer to transfer learning techniques capable of delivering huge improvements to your NLP models.
+1. [Transfer Learning for Natural Language Processing](https://www.manning.com/books/transfer-learning-for-natural-language-processing) - A book that is a practical primer to transfer learning techniques capable of delivering huge improvements to your NLP models.
 
 ## Other Resources
 
