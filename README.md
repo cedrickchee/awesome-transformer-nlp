@@ -215,6 +215,10 @@ As Jay Alammar put it:
 
 [MultiFiT: Efficient Multi-lingual Language Model Fine-tuning](http://nlp.fast.ai/classification/2019/09/10/multifit.html) by Sebastian Ruder et al. MultiFiT extends ULMFiT to make it more efficient and more suitable for language modelling beyond English. ([EMNLP 2019 paper](https://arxiv.org/abs/1909.04761))
 
+## Books
+
+[Transfer Learning for Natural Language Processing](https://www.manning.com/books/transfer-learning-for-natural-language-processing) - A book that is a practical primer to transfer learning techniques capable of delivering huge improvements to your NLP models.
+
 ## Other Resources
 
 <details>
