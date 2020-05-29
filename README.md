@@ -20,6 +20,7 @@ This repository contains a hand-curated of great machine (deep) learning resourc
   - [BERT and Transformer](#bert-and-transformer)
   - [Attention Concept](#attention-concept)
   - [Transformer Architecture](#transformer-architecture)
+  - [Generative Pre-Training Transformer (GPT)](#generative-pre-training-transformer-gpt)
   - [Additional Reading](#additional-reading)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
@@ -118,10 +119,10 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 7. [The Transformer Family](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html) by Lilian Weng - since the paper "Attention Is All You Need", many new things have happened to improve the Transformer model. This post is about that.
 8. [DETR (**DE**tection **TR**ansformer): End-to-End Object Detection with Transformers](https://ai.facebook.com/blog/end-to-end-object-detection-with-transformers/) by FAIR - :fire: Computer vision has not yet been swept up by the Transformer revolution. DETR completely changes the architecture compared with previous object detection systems. ([PyTorch Code and pretrained models](https://github.com/facebookresearch/detr)). "A solid swing at (non-autoregressive) end-to-end detection. Anchor boxes + Non-Max Suppression (NMS) is a mess. I was hoping detection would go end-to-end back in ~2013)" — Andrej Karpathy
 
-### OpenAI Generative Pre-Training Transformer (GPT) and GPT-2
+### Generative Pre-Training Transformer (GPT)
 
 1. [Better Language Models and Their Implications](https://openai.com/blog/better-language-models/).
-2. [Improving Language Understanding with Unsupervised Learning](https://blog.openai.com/language-unsupervised/) - this is an overview of the original GPT model.
+2. [Improving Language Understanding with Unsupervised Learning](https://blog.openai.com/language-unsupervised/) - this is an overview of the original OpenAI GPT model.
 3. [🦄 How to build a State-of-the-Art Conversational AI with Transfer Learning](https://convai.huggingface.co/) by Hugging Face.
 4. [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/) by Jay Alammar.
 5. [MegatronLM: Training Billion+ Parameter Language Models Using GPU Model Parallelism](https://nv-adlr.github.io/MegatronLM) by NVIDIA ADLR.
