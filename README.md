@@ -159,6 +159,8 @@ This repository contains a hand-curated of great machine (deep) learning resourc
   - Clear explanation. Also covers the two-stream self-attention idea.
 2. [The Future of NLP](https://youtu.be/G5lmya6eKtc) by 🤗
   - Dense overview of what is going on in transfer learning in NLP currently, limits, and future directions.
+3. [The Transformer neural network architecture explained](https://youtu.be/FWFA4DGuzSc) by AI Coffee Break with Letitia Parcalabescu.
+  - High-level explanation, best suited when unfamiliar with Transformers.
 
 ## Official Implementations
 
