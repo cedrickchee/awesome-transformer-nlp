@@ -130,6 +130,7 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 7. [MSBuild demo of an OpenAI generative text model generating Python code](https://www.youtube.com/watch?v=fZSFNUT6iY8) [video] - The model that was trained on GitHub OSS repos. The model uses English-language code comments or simply function signatures to generate entire Python functions. Cool!
 8. [GPT-3: Language Models are Few-Shot Learners (paper)](https://arxiv.org/abs/2005.14165) by Tom B. Brown (OpenAI) et al. - "We train GPT-3, an autoregressive language model with 175 billion parameters :scream:, 10x more than any previous non-sparse language model, and test its performance in the few-shot setting."
 9. [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) - A collection of demos and articles about the OpenAI GPT-3 API.
+10. [How GPT3 Works - Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) by Jay Alammar.
 
 ### Additional Reading
 
