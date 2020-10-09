@@ -190,11 +190,13 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 11. [kaushaltrivedi/fast-bert](https://github.com/kaushaltrivedi/fast-bert) - Super easy library for BERT based NLP models. Built based on 🤗 Transformers and is inspired by fast.ai.
 12. [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - Neural Modules is a toolkit for conversational AI by NVIDIA. They are trying to [improve speech recognition with BERT post-processing](https://nvidia.github.io/NeMo/nlp/intro.html#improving-speech-recognition-with-bertx2-post-processing-model).
 13. [facebook/MMBT](https://github.com/facebookresearch/mmbt/) from Facebook AI - Multimodal transformers model that can accept a transformer model and a computer vision model for classifying image and text.
+14. [dbiir/UER-py](https://github.com/dbiir/UER-py) from Tencent and RUC - Open Source Pre-training Model Framework in PyTorch & Pre-trained Model Zoo (with more focus on Chinese).
 
 ### Keras
 
 1. [Separius/BERT-keras](https://github.com/Separius/BERT-keras) - Keras implementation of BERT with pre-trained weights.
 2. [CyberZHG/keras-bert](https://github.com/CyberZHG/keras-bert) - Implementation of BERT that could load official pre-trained models for feature extraction and prediction.
+3. [bojone/bert4keras](https://github.com/bojone/bert4keras) - Light reimplement of BERT for Keras.
 
 ### TensorFlow
 
