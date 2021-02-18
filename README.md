@@ -83,6 +83,8 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 11. [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/abs/2002.12327) by Anna Rogers et al.
 - "Have you been drowning in BERT papers?". The group survey over 40 papers on BERT's linguistic knowledge, architecture tweaks, compression, multilinguality, and so on.
 12. [tomohideshibata/BERT-related papers](https://github.com/tomohideshibata/BERT-related-papers)
+13. [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/abs/2101.03961) by Google Brain. [[Code]](https://github.com/tensorflow/mesh/blob/master/mesh_tensorflow/transformer/moe.py) | [[Blog post (unofficial)]](https://syncedreview.com/2021/01/14/google-brains-switch-transformer-language-model-packs-1-6-trillion-parameters/)
+- Key idea: the architecture use a subset of parameters on every training step and on each example. Upside: model train much faster. Downside: super large model that won't fit in a lot of environments.
 
 ## Articles
 
