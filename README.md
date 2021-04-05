@@ -25,6 +25,7 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 - [Tutorials](#tutorials)
 - [Videos](#videos)
   - [BERTology](#bertology)
+  - [Attention and Transformer Networks](#attention-and-transformer-networks)
 - [Official Implementations](#official-implementations)
 - [Other Implementations](#other-implementations)
   - [PyTorch and TensorFlow](#pytorch-and-tensorflow)
@@ -166,6 +167,10 @@ This repository contains a hand-curated of great machine (deep) learning resourc
   - Dense overview of what is going on in transfer learning in NLP currently, limits, and future directions.
 3. [The Transformer neural network architecture explained](https://youtu.be/FWFA4DGuzSc) by AI Coffee Break with Letitia Parcalabescu.
   - High-level explanation, best suited when unfamiliar with Transformers.
+
+### Attention and Transformer Networks
+
+1. [Sequence to Sequence Learning Animated (Inside Transformer Neural Networks and Attention Mechanisms)](https://youtu.be/GTVgJhSlHEk) by learningcurve.
 
 ## Official Implementations
 
