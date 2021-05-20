@@ -152,6 +152,9 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 10. [The dark secrets of BERT](https://text-machine-lab.github.io/blog/2020/bert-secrets/) - This post probes fine-tuned BERT models for linguistic knowledge. In particular, the authors analyse how many self-attention patterns with some linguistic interpretation are actually used to solve downstream tasks. TL;DR: They are unable to find evidence that linguistically interpretable self-attention maps are crucial for downstream performance.
 11. [A Visual Guide to Using BERT for the First Time](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/) - Tutorial on using BERT in practice, such as for sentiment analysis on movie reviews by Jay Alammar.
 12. [Turing-NLG: A 17-billion-parameter language model](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/) by Microsoft that outperforms the state of the art on many downstream NLP tasks. This work would not be possible without breakthroughs produced by the [DeepSpeed library](https://github.com/microsoft/DeepSpeed) (compatible with PyTorch) and [ZeRO optimizer](https://arxiv.org/abs/1910.02054), which can be explored more in this accompanying [blog post](https://www.microsoft.com/en-us/research/blog/zero-deepspeed-new-system-optimizations-enable-training-models-with-over-100-billion-parameters).
+13. [MUM (Multitask Unified Model): A new AI milestone for understanding information](https://blog.google/products/search/introducing-mum/) by Google.
+- Based on transformer architecture but more powerful.
+- Multitask means: supports text and images, knowledge transfer between 75 languages, understand context and go deeper in a topic, and generate content.
 
 ## Tutorials
 
