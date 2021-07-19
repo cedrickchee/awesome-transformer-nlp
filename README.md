@@ -88,6 +88,10 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 - Key idea: the architecture use a subset of parameters on every training step and on each example. Upside: model train much faster. Downside: super large model that won't fit in a lot of environments.
 14. [An Attention Free Transformer](https://arxiv.org/abs/2105.14103) by Apple.
 15. [A Survey of Transformers](https://arxiv.org/abs/2106.04554) by Tianyang Lin et al.
+16. [Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374) by OpenAI.
+- Codex, a GPT language model that powers GitHub Copilot.
+- They investigate their model limitations (and strengths).
+- They discuss the potential broader impacts of deploying powerful code generation techs, covering safety, security, and economics.
 
 ## Articles
 
