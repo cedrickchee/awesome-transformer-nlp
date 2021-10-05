@@ -249,6 +249,7 @@ As Jay Alammar put it:
 ## Books
 
 1. [Transfer Learning for Natural Language Processing](https://www.manning.com/books/transfer-learning-for-natural-language-processing) - A book that is a practical primer to transfer learning techniques capable of delivering huge improvements to your NLP models.
+2. [Transfer Learning in Action](https://www.manning.com/books/transfer-learning-in-action) - Book that teaches the fundamental concepts of transfer learning and how you can easily apply them to your projects.
 
 ## Other Resources
 
