@@ -144,6 +144,7 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 12. [GitHub Copilot](https://copilot.github.com/), powered by OpenAI Codex - Codex is a descendant of GPT-3. Codex translates natural language into code.
 13. [GPT-J-6B](https://towardsdatascience.com/cant-access-gpt-3-here-s-gpt-j-its-open-source-cousin-8af86a638b11) - Can't access GPT-3? Here's GPT-J — its open-source cousin.
 14. [Fun and Dystopia With AI-Based Code Generation Using GPT-J-6B](https://minimaxir.com/2021/06/gpt-j-6b/) - Prior to GitHub Copilot tech preview launch, Max Woolf, a data scientist tested GPT-J-6B's code "writing" abilities.
+15. [GPT-Code-Clippy (GPT-CC)](https://github.com/CodedotAl/gpt-code-clippy) - An open source version of GitHub Copilot. The GPT-CC models are fine-tuned versions of GPT-2 and GPT-Neo.
 
 ### Additional Reading
 
