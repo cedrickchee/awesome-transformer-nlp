@@ -167,6 +167,10 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 - Multitask means: supports text and images, knowledge transfer between 75 languages, understand context and go deeper in a topic, and generate content.
 14. [GPT-3 is No Longer the Only Game in Town](https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game) - GPT-3 was by far the largest AI model of its kind last year (2020). Now? Not so much.
 15. [OpenAI's API Now Available with No Waitlist](https://openai.com/blog/api-no-waitlist/) - GPT-3 access without the wait. However, apps must be approved before [going live](https://beta.openai.com/docs/going-live). This release also allow them to review applications, monitor for misuse, and better understand the effects of this tech.
+16. [The Inherent Limitations of GPT-3](https://lastweekin.ai/p/the-inherent-limitations-of-gpt-3) - One thing missing from the article if you've read [Gwern's GPT-3 Creative Fiction article](https://www.gwern.net/GPT-3#repetitiondivergence-sampling) before is the mystery known as "Repetition/Divergence Sampling":
+    > when you generate free-form completions, they have a tendency to eventually fall into repetitive loops of gibberish.
+
+    For those using Copilot, you should have experienced this wierdness where it generates the same line or block of code over and over again.
 
 ## Tutorials
 
