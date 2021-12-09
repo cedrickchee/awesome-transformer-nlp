@@ -171,6 +171,7 @@ This repository contains a hand-curated of great machine (deep) learning resourc
     > when you generate free-form completions, they have a tendency to eventually fall into repetitive loops of gibberish.
 
     For those using Copilot, you should have experienced this wierdness where it generates the same line or block of code over and over again.
+17. [Language Modelling at Scale: Gopher, Ethical considerations, and Retrieval](https://deepmind.com/blog/article/language-modelling-at-scale) by DeepMind - The paper present an analysis of Transformer-based language model performance across a wide range of model scales — from models with tens of millions of parameters up to a 280 billion parameter model called Gopher.
 
 ## Tutorials
 
