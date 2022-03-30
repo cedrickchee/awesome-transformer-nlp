@@ -175,6 +175,7 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 17. [Language Modelling at Scale: Gopher, Ethical considerations, and Retrieval](https://deepmind.com/blog/article/language-modelling-at-scale) by DeepMind - The paper present an analysis of Transformer-based language model performance across a wide range of model scales — from models with tens of millions of parameters up to a 280 billion parameter model called Gopher.
 18. [Competitive programming with AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode) by DeepMind - AlphaCode uses transformer-based language models to generate code that can create novel solutions to programming problems which require an understanding of algorithms.
 19. [Building games and apps entirely through natural language using OpenAI's code-davinci model](https://andrewmayneblog.wordpress.com/2022/03/17/building-games-and-apps-entirely-through-natural-language-using-openais-davinci-code-model/) - The author built several small games and apps without touching a single line of code, simply by telling the model what they want.
+20. [Open AI gets GPT-3 to work by hiring an army of humans to fix GPT’s bad answers](https://statmodeling.stat.columbia.edu/2022/03/28/is-open-ai-cooking-the-books-on-gpt-3/)
 
 ## Tutorials
 
