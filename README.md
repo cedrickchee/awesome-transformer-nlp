@@ -149,6 +149,7 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 14. [Fun and Dystopia With AI-Based Code Generation Using GPT-J-6B](https://minimaxir.com/2021/06/gpt-j-6b/) - Prior to GitHub Copilot tech preview launch, Max Woolf, a data scientist tested GPT-J-6B's code "writing" abilities.
 15. [GPT-Code-Clippy (GPT-CC)](https://github.com/CodedotAl/gpt-code-clippy) - An open source version of GitHub Copilot. The GPT-CC models are fine-tuned versions of GPT-2 and GPT-Neo.
 16. [GPT-NeoX-20B](https://blog.eleuther.ai/announcing-20b/) - A 20 billion parameter model trained using EleutherAI’s [GPT-NeoX](https://github.com/EleutherAI/gpt-neox) framework. They expect it to perform well on many tasks. You cam try out the model on [GooseAI](https://goose.ai/) playground.
+17. [Metaseq](https://github.com/facebookresearch/metaseq) - A codebase for working with [Open Pre-trained Transformers (OPT)](https://arxiv.org/abs/2205.01068).
 
 ### Additional Reading
 
