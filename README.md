@@ -181,6 +181,7 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 19. [Building games and apps entirely through natural language using OpenAI's code-davinci model](https://andrewmayneblog.wordpress.com/2022/03/17/building-games-and-apps-entirely-through-natural-language-using-openais-davinci-code-model/) - The author built several small games and apps without touching a single line of code, simply by telling the model what they want.
 20. [Open AI gets GPT-3 to work by hiring an army of humans to fix GPT’s bad answers](https://statmodeling.stat.columbia.edu/2022/03/28/is-open-ai-cooking-the-books-on-gpt-3/)
 21. [GPT-3 can run code](https://mayt.substack.com/p/gpt-3-can-run-code) - You provide an input text and a command and GPT-3 will transform them into an expected output. It works well for tasks like changing coding style, translating between programming languages, refactoring, and adding doc. For example, converts JSON into YAML, translates Python code to JavaScript, improve the runtime complexity of the function.
+22. [Using GPT-3 to explain how code works](https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/) by Simon Willison.
 
 ## Tutorials
 
