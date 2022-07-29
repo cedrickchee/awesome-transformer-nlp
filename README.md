@@ -300,6 +300,7 @@ As Jay Alammar put it:
 
 1. [jessevig/bertviz](https://github.com/jessevig/bertviz) - Tool for visualizing attention in the Transformer model.
 2. [FastBert](https://github.com/kaushaltrivedi/fast-bert) - A simple deep learning library that allows developers and data scientists to train and deploy BERT based models for NLP tasks beginning with text classification. The work on FastBert is inspired by fast.ai.
+3. [gpt2tc](https://bellard.org/libnc/gpt2tc.html) - A small program using the GPT-2 LM to complete and compress texts. It has no external dependency, requires no GPU and is quite fast. The smallest model (117M parameters) is provided. Larger models can be downloaded as well. (no waitlist, no sign up required).
 
 ## Tasks
 
