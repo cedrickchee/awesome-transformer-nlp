@@ -1,4 +1,4 @@
-# Awesome BERT & Transfer Learning in NLP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Transformer & Transfer Learning in NLP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This repository contains a hand-curated of great machine (deep) learning resources for Natural Language Processing (NLP) with a focus on Bidirectional Encoder Representations from Transformers (BERT), attention mechanism, Transformer architectures/networks, and transfer learning in NLP.
 
