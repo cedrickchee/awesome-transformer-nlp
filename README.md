@@ -152,6 +152,10 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 17. [Metaseq](https://github.com/facebookresearch/metaseq) - A codebase for working with [Open Pre-trained Transformers (OPT)](https://arxiv.org/abs/2205.01068).
 18. [YaLM 100B](https://github.com/yandex/YaLM-100B) by Yandex is a GPT-like pretrained language model with 100B parameters for generating and processing text. It can be used **freely** by developers and researchers from all over the world.
 19. [GPT-4 Rumors From Silicon Valley](https://thealgorithmicbridge.substack.com/p/gpt-4-rumors-from-silicon-valley) - GPT-4 is almost ready. GPT-4 would be multimodal, accepting text, audio, image, and possibly video inputs. Release window: Dec - Feb. #hype
+20. [New GPT-3 model: text-Davinci-003](https://beta.openai.com/docs/models/davinci) - Improvements:
+  - Handle more complex intents — you can get even more creative with how you make use of its capabilities now.
+  - Higher quality writing — clearer, more engaging, and more compelling content.
+  - Better at longer form content generation.
 
 ### Additional Reading
 
