@@ -159,7 +159,7 @@ This repository contains a hand-curated of great machine (deep) learning resourc
   - Better at longer form content generation.
 21. [ChatGPT blog post](https://openai.com/blog/chatgpt/) and link to the conversational interface.
 - ChatGPT is OpenAI's newest language model fine-tuned from a model in the [GPT-3.5 series](https://beta.openai.com/docs/model-index-for-researchers) (which finished training in early 2022), optimized for dialogue. It is trained using Reinforcement Learning from Human Feedback; human AI trainers provide supervised fine-tuning by playing both sides of the conversation.
-- Is it evidently better than GPT-3 at following user instructions and context? [People have noticed](https://olshansky.substack.com/p/24-hours-of-chatgpt), ChatGPT's output quality seems to represent a notable improvement over previous GPT-3 models.
+- Is it evidently better than GPT-3 at following user instructions and context? [People have noticed](https://archive.ph/m6AOQ), ChatGPT's output quality seems to represent a notable improvement over previous GPT-3 models.
 
 ### Additional Reading
 
