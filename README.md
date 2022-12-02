@@ -92,6 +92,7 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 - Codex, a GPT language model that powers GitHub Copilot.
 - They investigate their model limitations (and strengths).
 - They discuss the potential broader impacts of deploying powerful code generation techs, covering safety, security, and economics.
+17. [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) by OpenAI. They call the resulting models [InstructGPT](https://openai.com/blog/instruction-following/). [ChatGPT](https://openai.com/blog/chatgpt/) is a sibling model to InstructGPT.
 
 ## Articles
 
