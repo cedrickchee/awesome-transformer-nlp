@@ -195,6 +195,7 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 21. [GPT-3 can run code](https://mayt.substack.com/p/gpt-3-can-run-code) - You provide an input text and a command and GPT-3 will transform them into an expected output. It works well for tasks like changing coding style, translating between programming languages, refactoring, and adding doc. For example, converts JSON into YAML, translates Python code to JavaScript, improve the runtime complexity of the function.
 22. [Using GPT-3 to explain how code works](https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/) by Simon Willison.
 23. [Character AI announces they're building a full stack AGI company](https://blog.character.ai/introducing-character/) so you could create your own AI to help you with anything, using conversational AI research. The co-founders Noam Shazeer (co-invented Transformers, scaled them to supercomputers for the first time, and pioneered large-scale pretraining) and Daniel de Freitas (led the development of LaMDA), all of which are foundational to recent AI progress.
+24. [How Much Better is OpenAI’s Newest GPT-3 Model?](https://scale.com/blog/gpt-3-davinci-003-comparison) - In addition to ChatGPT, OpenAI releases text-davinci-003, a Reinforcement Learning-tuned model that performs better long-form writing. Example, it can explain code in the style of Eminem. 😀
 
 ## Tutorials
 
