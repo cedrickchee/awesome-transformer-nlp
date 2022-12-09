@@ -4,8 +4,8 @@ This repository contains a hand-curated of great machine (deep) learning resourc
 
 <br />
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/145605/79639176-9ca33d80-81bc-11ea-8cde-f7ff68ee2042.png" width="600" />
-<h4 align="center">Transformer (BERT) (<a href="https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/blocks/bert-encoder">Source</a>)</h4>
+  <img src="https://user-images.githubusercontent.com/145605/79639176-9ca33d80-81bc-11ea-8cde-f7ff68ee2042.png" width="600" style="background-color: #fff;" />
+<h4 align="center">Transformer (BERT) (<a href="https://web.archive.org/web/20201217063603/https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/blocks/bert-encoder">Source</a>)</h4>
 </p>
 <br />
 
