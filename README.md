@@ -27,7 +27,8 @@ Transformer (BERT) ([Source](https://web.archive.org/web/20201217063603/https://
   - [Transformer Architecture](#transformer-architecture)
   - [Generative Pre-Training Transformer (GPT)](#generative-pre-training-transformer-gpt)
   - [Additional Reading](#additional-reading)
-- [Tutorials](#tutorials)
+- [Educational](#educational)
+  - [Tutorials](#tutorials)
 - [Videos](#videos)
   - [BERTology](#bertology)
   - [Attention and Transformer Networks](#attention-and-transformer-networks)
@@ -202,7 +203,11 @@ Transformer (BERT) ([Source](https://web.archive.org/web/20201217063603/https://
 23. [Character AI announces they're building a full stack AGI company](https://blog.character.ai/introducing-character/) so you could create your own AI to help you with anything, using conversational AI research. The co-founders Noam Shazeer (co-invented Transformers, scaled them to supercomputers for the first time, and pioneered large-scale pretraining) and Daniel de Freitas (led the development of LaMDA), all of which are foundational to recent AI progress.
 24. [How Much Better is OpenAI’s Newest GPT-3 Model?](https://scale.com/blog/gpt-3-davinci-003-comparison) - In addition to ChatGPT, OpenAI releases text-davinci-003, a Reinforcement Learning-tuned model that performs better long-form writing. Example, it can explain code in the style of Eminem. 😀
 
-## Tutorials
+## Educational
+
+- [minGPT](https://github.com/karpathy/minGPT) by Andrej Karpathy - A PyTorch re-implementation of GPT, both training and inference. minGPT tries to be small, clean, interpretable and educational, as most of the currently available GPT model implementations can a bit sprawling. GPT is not a complicated model and this implementation is appropriately about 300 lines of code.
+
+### Tutorials
 
 1. [How to train a new language model from scratch using Transformers and Tokenizers](https://huggingface.co/blog/how-to-train) tutorial by Hugging Face. :fire:
 
