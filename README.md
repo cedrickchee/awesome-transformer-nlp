@@ -2,12 +2,17 @@
 
 This repository contains a hand-curated of great machine (deep) learning resources for Natural Language Processing (NLP) with a focus on Bidirectional Encoder Representations from Transformers (BERT), attention mechanism, Transformer architectures/networks, and transfer learning in NLP.
 
-<br />
+![Transformer](https://user-images.githubusercontent.com/145605/206787465-bdfae6e0-c850-46fc-808d-a51c97644a9e.png#gh-dark-mode-only)
+![Transformer](https://user-images.githubusercontent.com/145605/79639176-9ca33d80-81bc-11ea-8cde-f7ff68ee2042.png#gh-light-mode-only)
+
+Transformer (BERT) ([Source](https://web.archive.org/web/20201217063603/https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/blocks/bert-encoder))
+
+<!-- <br />
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/145605/79639176-9ca33d80-81bc-11ea-8cde-f7ff68ee2042.png" width="600" style="background-color: #fff;" />
+  <img src="https://user-images.githubusercontent.com/145605/79639176-9ca33d80-81bc-11ea-8cde-f7ff68ee2042.png" width="600" />
 <h4 align="center">Transformer (BERT) (<a href="https://web.archive.org/web/20201217063603/https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/blocks/bert-encoder">Source</a>)</h4>
 </p>
-<br />
+<br /> -->
 
 # Table of Contents
 
