@@ -26,6 +26,7 @@ Transformer (BERT) ([Source](https://web.archive.org/web/20201217063603/https://
   - [Attention Concept](#attention-concept)
   - [Transformer Architecture](#transformer-architecture)
   - [Generative Pre-Training Transformer (GPT)](#generative-pre-training-transformer-gpt)
+  - [Large Language Model (LLM)](#large-language-model-llm)
   - [Additional Reading](#additional-reading)
 - [Educational](#educational)
   - [Tutorials](#tutorials)
@@ -154,20 +155,24 @@ Transformer (BERT) ([Source](https://web.archive.org/web/20201217063603/https://
 10. [How GPT3 Works - Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) by Jay Alammar.
 11. [GPT-Neo](https://www.eleuther.ai/projects/gpt-neo/) - Replicate a GPT-3 sized model and open source it for free. GPT-Neo is "an implementation of model parallel GPT2 & GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library." [[Code](https://github.com/EleutherAI/gpt-neo)].
 12. [GitHub Copilot](https://copilot.github.com/), powered by OpenAI Codex - Codex is a descendant of GPT-3. Codex translates natural language into code.
-13. [GPT-J-6B](https://towardsdatascience.com/cant-access-gpt-3-here-s-gpt-j-its-open-source-cousin-8af86a638b11) - Can't access GPT-3? Here's GPT-J — its open-source cousin.
-14. [Fun and Dystopia With AI-Based Code Generation Using GPT-J-6B](https://minimaxir.com/2021/06/gpt-j-6b/) - Prior to GitHub Copilot tech preview launch, Max Woolf, a data scientist tested GPT-J-6B's code "writing" abilities.
-15. [GPT-Code-Clippy (GPT-CC)](https://github.com/CodedotAl/gpt-code-clippy) - An open source version of GitHub Copilot. The GPT-CC models are fine-tuned versions of GPT-2 and GPT-Neo.
-16. [GPT-NeoX-20B](https://blog.eleuther.ai/announcing-20b/) - A 20 billion parameter model trained using EleutherAI’s [GPT-NeoX](https://github.com/EleutherAI/gpt-neox) framework. They expect it to perform well on many tasks. You cam try out the model on [GooseAI](https://goose.ai/) playground.
-17. [Metaseq](https://github.com/facebookresearch/metaseq) - A codebase for working with [Open Pre-trained Transformers (OPT)](https://arxiv.org/abs/2205.01068).
-18. [YaLM 100B](https://github.com/yandex/YaLM-100B) by Yandex is a GPT-like pretrained language model with 100B parameters for generating and processing text. It can be used **freely** by developers and researchers from all over the world.
-19. [GPT-4 Rumors From Silicon Valley](https://thealgorithmicbridge.substack.com/p/gpt-4-rumors-from-silicon-valley) - GPT-4 is almost ready. GPT-4 would be multimodal, accepting text, audio, image, and possibly video inputs. Release window: Dec - Feb. #hype
-20. [New GPT-3 model: text-Davinci-003](https://beta.openai.com/docs/models/davinci) - Improvements:
+13. [GPT-4 Rumors From Silicon Valley](https://thealgorithmicbridge.substack.com/p/gpt-4-rumors-from-silicon-valley) - GPT-4 is almost ready. GPT-4 would be multimodal, accepting text, audio, image, and possibly video inputs. Release window: Dec - Feb. #hype
+14. [New GPT-3 model: text-Davinci-003](https://beta.openai.com/docs/models/davinci) - Improvements:
   - Handle more complex intents — you can get even more creative with how you make use of its capabilities now.
   - Higher quality writing — clearer, more engaging, and more compelling content.
   - Better at longer form content generation.
-21. [ChatGPT blog post](https://openai.com/blog/chatgpt/) and link to the conversational interface.
+15. [ChatGPT blog post](https://openai.com/blog/chatgpt/) and link to the conversational interface.
 - ChatGPT is OpenAI's newest language model fine-tuned from a model in the [GPT-3.5 series](https://beta.openai.com/docs/model-index-for-researchers) (which finished training in early 2022), optimized for dialogue. It is trained using Reinforcement Learning from Human Feedback; human AI trainers provide supervised fine-tuning by playing both sides of the conversation.
 - Is it evidently better than GPT-3 at following user instructions and context? [People have noticed](https://archive.ph/m6AOQ), ChatGPT's output quality seems to represent a notable improvement over previous GPT-3 models.
+
+### Large Language Model (LLM)
+
+1. [GPT-J-6B](https://towardsdatascience.com/cant-access-gpt-3-here-s-gpt-j-its-open-source-cousin-8af86a638b11) - Can't access GPT-3? Here's GPT-J — its open-source cousin.
+2. [Fun and Dystopia With AI-Based Code Generation Using GPT-J-6B](https://minimaxir.com/2021/06/gpt-j-6b/) - Prior to GitHub Copilot tech preview launch, Max Woolf, a data scientist tested GPT-J-6B's code "writing" abilities.
+3. [GPT-Code-Clippy (GPT-CC)](https://github.com/CodedotAl/gpt-code-clippy) - An open source version of GitHub Copilot. The GPT-CC models are fine-tuned versions of GPT-2 and GPT-Neo.
+4. [GPT-NeoX-20B](https://blog.eleuther.ai/announcing-20b/) - A 20 billion parameter model trained using EleutherAI’s [GPT-NeoX](https://github.com/EleutherAI/gpt-neox) framework. They expect it to perform well on many tasks. You can try out the model on [GooseAI](https://goose.ai/) playground.
+5. [Metaseq](https://github.com/facebookresearch/metaseq) - A codebase for working with [Open Pre-trained Transformers (OPT)](https://arxiv.org/abs/2205.01068).
+6. [YaLM 100B](https://github.com/yandex/YaLM-100B) by Yandex is a GPT-like pretrained language model with 100B parameters for generating and processing text. It can be used **freely** by developers and researchers from all over the world.
+7. [BigScience's BLOOM-176B](https://huggingface.co/bigscience/bloom) from the Hugging Face repository [[paper](https://arxiv.org/abs/2210.15424), [blog post](https://bigscience.huggingface.co/blog/bloom)] - BLOOM is a 175-billion parameter model for language processing, able to generate text much like GPT-3 and OPT-175B. It was developed to be multilingual, being deliberately trained on datasets containing 46 natural languages and 13 programming languages.
 
 ### Additional Reading
 
