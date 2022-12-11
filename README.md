@@ -27,6 +27,7 @@ Transformer (BERT) ([Source](https://web.archive.org/web/20201217063603/https://
   - [Transformer Architecture](#transformer-architecture)
   - [Generative Pre-Training Transformer (GPT)](#generative-pre-training-transformer-gpt)
   - [Large Language Model (LLM)](#large-language-model-llm)
+  - [Transformer Reinforcement Learning](#transformer-reinforcement-learning)
   - [Additional Reading](#additional-reading)
 - [Educational](#educational)
   - [Tutorials](#tutorials)
@@ -175,6 +176,21 @@ Transformer (BERT) ([Source](https://web.archive.org/web/20201217063603/https://
 7. [BigScience's BLOOM-176B](https://huggingface.co/bigscience/bloom) from the Hugging Face repository [[paper](https://arxiv.org/abs/2210.15424), [blog post](https://bigscience.huggingface.co/blog/bloom)] - BLOOM is a 175-billion parameter model for language processing, able to generate text much like GPT-3 and OPT-175B. It was developed to be multilingual, being deliberately trained on datasets containing 46 natural languages and 13 programming languages.
 8. [bitsandbytes-Int8 inference for Hugging Face models](https://docs.google.com/document/d/1JxSo4lQgMDBdnd19VBEoaG-mMfQupQ3XvOrgmRAVtpU/edit) - You can run BLOOM-176B/OPT-175B easily on a single machine, without performance degradation. If true, this could be a game changer in enabling people outside of big tech companies being able to use these LLMs.
 
+### Transformer Reinforcement Learning
+
+Transformer Reinforcement Learning from Human Feedback (RLHF).
+
+- [Illustrating Reinforcement Learning from Human Feedback](https://huggingface.co/blog/rlhf) - Recent advances with language models (ChatGPT for example) have been powered by RLHF.
+
+#### Tools for RLHF
+
+- [lvwerra/TRL](https://github.com/lvwerra/trl) - Train transformer language models with reinforcement learning.
+
+Open source effort towards ChatGPT:
+
+- [CarperAI/TRLX](https://github.com/CarperAI/trlx) - Originated as a fork of TRL. It allows you to fine-tune Hugging Face language models (GPT2, GPT-NeoX based) up to 20B parameters using Reinforcement Learning. Brought to you by CarperAI (born at EleutherAI, an org part of StabilityAI family). CarperAI is developing production ready open-source RLHF tools.
+- [allenai/RL4LMs](https://github.com/allenai/RL4LMs) - RL for language models (RL4LMs) by Allen AI. It's a modular RL library to fine-tune language models to human preferences.
+
 ### Additional Reading
 
 1. [How to Build OpenAI's GPT-2: "The AI That's Too Dangerous to Release"](https://www.reddit.com/r/MachineLearning/comments/bj0dsa/d_how_to_build_openais_gpt2_the_ai_thats_too/).
@@ -290,6 +306,9 @@ Transformer (BERT) ([Source](https://web.archive.org/web/20201217063603/https://
 
 ## Transfer Learning in NLP
 
+<details>
+
+<summary>NLP finally had a way to do transfer learning probably as well as Computer Vision could.</summary>
 As Jay Alammar put it:
 
 > The year 2018 has been an inflection point for machine learning models handling text (or more accurately, Natural Language Processing or NLP for short). Our conceptual understanding of how best to represent words and sentences in a way that best captures underlying meanings and relationships is rapidly evolving. Moreover, the NLP community has been putting forward incredibly powerful components that you can freely download and use in your own models and pipelines (It's been referred to as [NLP's ImageNet moment](http://ruder.io/nlp-imagenet/), referencing how years ago similar developments accelerated the development of machine learning in Computer Vision tasks).
@@ -303,6 +322,8 @@ As Jay Alammar put it:
 > [ULMFiT introduced methods to effectively utilize a lot of what the model learns during pre-training](http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html) – more than just embeddings, and more than contextualized embeddings. ULMFiT introduced a language model and a process to effectively fine-tune that language model for various tasks.
 >
 > NLP finally had a way to do transfer learning probably as well as Computer Vision could.
+
+</details>
 
 [MultiFiT: Efficient Multi-lingual Language Model Fine-tuning](http://nlp.fast.ai/classification/2019/09/10/multifit.html) by Sebastian Ruder et al. MultiFiT extends ULMFiT to make it more efficient and more suitable for language modelling beyond English. ([EMNLP 2019 paper](https://arxiv.org/abs/1909.04761))
 
