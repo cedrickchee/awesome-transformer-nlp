@@ -212,6 +212,12 @@ Transformer (BERT) ([Source](https://web.archive.org/web/20201217063603/https://
 26. [Startups competing with OpenAI's GPT-3 all need to solve the same problems](https://www.theregister.com/2022/03/03/language_model_gpt3/) - Last year, two startups released their own proprietary text-generation APIs. AI21 Labs, launched its 178-billion-parameter Jurassic-1 in Aug 2021, and Cohere, released a range of models. Cohere hasn't disclosed how many parameters its models contain. ... There are other up-and-coming startups looking to solve the same issues. Anthropic, the AI safety and research company started by a group of ex-OpenAI employees. Several researchers have left Google Brain to join two new ventures started by their colleagues. One outfit is named Character.ai, and the other Persimmon Labs.
 27. [Cohere Wants to Build the Definitive NLP Platform](https://albertoromgar.medium.com/cohere-wants-to-build-the-definitive-nlp-platform-7d090c0de9ca) - Beyond generative models like GPT-3.
 28. [Transformer Inference Arithmetic](https://kipp.ly/blog/transformer-inference-arithmetic/) technical write-up from Carol Chen, ML Ops at Cohere. This article presents detailed few-principles reasoning about LLM inference performance, with no experiments or difficult math.
+29. [State of AI Report 2022](https://www.stateof.ai/2022-report-launch.html) - Key takeaways:
+  - New independent research labs are rapidly open sourcing the closed source output of major labs.
+  - AI safety is attracting more talent... yet remains extremely neglected.
+  - OpenAI's Codex, which drives GitHub Copilot, has impressed the computer science community with its ability to complete code on multiple lines or directly from natural language instructions. This success spurred more research in this space.
+  - DeepMind revisited LM scaling laws and found that current LMs are significantly undertrained: they’re not trained on enough data given their large size. They train Chinchilla, a 4x smaller version of their Gopher, on 4.6x more data, and find that Chinchilla outperforms Gopher and other large models on BIG-bench.
+  - Reinforcement Learning from Human Feedback (RLHF) has emerged as a key method to finetune LLMs and align them with human values. This involves humans ranking language model outputs sampled for a given input, using these rankings to learn a reward model of human preferences, and then using this as a reward signal to finetune the language model with using RL.
 
 ## Educational
 
