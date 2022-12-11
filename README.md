@@ -31,6 +31,7 @@ Transformer (BERT) ([Source](https://web.archive.org/web/20201217063603/https://
   - [Additional Reading](#additional-reading)
 - [Educational](#educational)
   - [Tutorials](#tutorials)
+- [AI Safety](#ai-safety)
 - [Videos](#videos)
   - [BERTology](#bertology)
   - [Attention and Transformer Networks](#attention-and-transformer-networks)
@@ -244,6 +245,10 @@ Open source effort towards ChatGPT:
 ### Tutorials
 
 1. [How to train a new language model from scratch using Transformers and Tokenizers](https://huggingface.co/blog/how-to-train) tutorial by Hugging Face. :fire:
+
+## AI Safety
+
+- [Transformer Circuits Thread](https://transformer-circuits.pub/) project by Anthropic - Can we reverse engineer transformer language models into human-understandable computer programs? Interpretability research benefits a lot from interactive articles. As part of their effort, they've created several other resources besides their paper like "A Mathematical Framework for Transformer Circuits" and ["toy models of superposition"](https://threadreaderapp.com/thread/1570087876053942272.html).
 
 ## Videos
 
