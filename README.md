@@ -192,6 +192,7 @@ For more, please take a look at [ChatGPT Universe](https://github.com/cedrickche
 Transformer Reinforcement Learning from Human Feedback (RLHF).
 
 - [Illustrating Reinforcement Learning from Human Feedback](https://huggingface.co/blog/rlhf) - Recent advances with language models (ChatGPT for example) have been powered by RLHF.
+- [Training a Helpful and Harmless Assistant with RLHF (paper)](https://arxiv.org/abs/2204.05862) by Anthropic. [[code and red teaming data](https://huggingface.co/datasets/Anthropic/hh-rlhf), [tweet](https://twitter.com/anthropicai/status/1514277273070825476)]
 
 #### Tools for RLHF
 
