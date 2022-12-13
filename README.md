@@ -26,6 +26,7 @@ Transformer (BERT) ([Source](https://web.archive.org/web/20201217063603/https://
   - [Attention Concept](#attention-concept)
   - [Transformer Architecture](#transformer-architecture)
   - [Generative Pre-Training Transformer (GPT)](#generative-pre-training-transformer-gpt)
+    - [ChatGPT](#chatgpt)
   - [Large Language Model (LLM)](#large-language-model-llm)
   - [Transformer Reinforcement Learning](#transformer-reinforcement-learning)
   - [Additional Reading](#additional-reading)
@@ -164,9 +165,16 @@ Transformer (BERT) ([Source](https://web.archive.org/web/20201217063603/https://
   - Handle more complex intents — you can get even more creative with how you make use of its capabilities now.
   - Higher quality writing — clearer, more engaging, and more compelling content.
   - Better at longer form content generation.
-15. [ChatGPT blog post](https://openai.com/blog/chatgpt/) and link to the conversational interface.
-- ChatGPT is OpenAI's newest language model fine-tuned from a model in the [GPT-3.5 series](https://beta.openai.com/docs/model-index-for-researchers) (which finished training in early 2022), optimized for dialogue. It is trained using Reinforcement Learning from Human Feedback; human AI trainers provide supervised fine-tuning by playing both sides of the conversation.
-- Is it evidently better than GPT-3 at following user instructions and context? [People have noticed](https://archive.ph/m6AOQ), ChatGPT's output quality seems to represent a notable improvement over previous GPT-3 models.
+
+#### ChatGPT
+
+[What is ChatGPT?](https://openai.com/blog/chatgpt/)
+
+**TL;DR:** ChatGPT is a conversational web interface, backed by OpenAI's newest language model fine-tuned from a model in the [GPT-3.5 series](https://beta.openai.com/docs/model-index-for-researchers) (which finished training in early 2022), optimized for dialogue. It is trained using Reinforcement Learning from Human Feedback (RLHF); human AI trainers provide supervised fine-tuning by playing both sides of the conversation.
+
+It's evidently better than GPT-3 at following user instructions and context. [People have noticed](https://archive.ph/m6AOQ) ChatGPT's output quality seems to represent a notable improvement over previous GPT-3 models.
+
+For more, please take a look at [ChatGPT Universe](https://github.com/cedrickchee/chatgpt-universe). This is my fleeting notes on everything I understand about ChatGPT and stores a collection of interesting things about ChatGPT.
 
 ### Large Language Model (LLM)
 
