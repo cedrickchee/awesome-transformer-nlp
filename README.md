@@ -186,6 +186,8 @@ For more, please take a look at [ChatGPT Universe](https://github.com/cedrickche
 6. [YaLM 100B](https://github.com/yandex/YaLM-100B) by Yandex is a GPT-like pretrained language model with 100B parameters for generating and processing text. It can be used **freely** by developers and researchers from all over the world.
 7. [BigScience's BLOOM-176B](https://huggingface.co/bigscience/bloom) from the Hugging Face repository [[paper](https://arxiv.org/abs/2210.15424), [blog post](https://bigscience.huggingface.co/blog/bloom)] - BLOOM is a 175-billion parameter model for language processing, able to generate text much like GPT-3 and OPT-175B. It was developed to be multilingual, being deliberately trained on datasets containing 46 natural languages and 13 programming languages.
 8. [bitsandbytes-Int8 inference for Hugging Face models](https://docs.google.com/document/d/1JxSo4lQgMDBdnd19VBEoaG-mMfQupQ3XvOrgmRAVtpU/edit) - You can run BLOOM-176B/OPT-175B easily on a single machine, without performance degradation. If true, this could be a game changer in enabling people outside of big tech companies being able to use these LLMs.
+9. [WeLM: A Well-Read Pre-trained Language Model for Chinese (paper)](https://arxiv.org/abs/2209.10372) by WeChat. [[online demo](https://welm.weixin.qq.com/docs/playground/)]
+10. [GLM-130B: An Open Bilingual (Chinese and English) Pre-Trained Model (code and paper)](https://github.com/THUDM/GLM-130B) by Tsinghua University, China [[article](https://keg.cs.tsinghua.edu.cn/glm-130b/posts/glm-130b/)]
 
 ### Transformer Reinforcement Learning
 
