@@ -36,8 +36,8 @@ Transformer (BERT) ([Source](https://web.archive.org/web/20201217063603/https://
 - [Videos](#videos)
   - [BERTology](#bertology)
   - [Attention and Transformer Networks](#attention-and-transformer-networks)
-- [Official Implementations](#official-implementations)
-- [Other Implementations](#other-implementations)
+- [Official BERT Implementations](#official-bert-implementations)
+- [Transformer Implementations By Communities](#transformer-implementations-by-communities)
   - [PyTorch and TensorFlow](#pytorch-and-tensorflow)
   - [PyTorch](#pytorch)
   - [Keras](#keras)
@@ -280,16 +280,19 @@ Open source effort towards ChatGPT:
 
 1. [Sequence to Sequence Learning Animated (Inside Transformer Neural Networks and Attention Mechanisms)](https://youtu.be/GTVgJhSlHEk) by learningcurve.
 
-## Official Implementations
+## Official BERT Implementations
 
 1. [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT.
 
-## Other Implementations
+## Transformer Implementations By Communities
+
+GPT and/or BERT implementations.
 
 ### PyTorch and TensorFlow
 
 1. [🤗 Hugging Face Transformers](https://github.com/huggingface/transformers) (formerly known as [pytorch-transformers](https://github.com/huggingface/pytorch-transformers) and [pytorch-pretrained-bert](https://github.com/huggingface/pytorch-pretrained-BERT)) provides state-of-the-art general-purpose architectures (BERT, GPT-2, RoBERTa, XLM, DistilBert, XLNet, CTRL...) for Natural Language Understanding (NLU) and Natural Language Generation (NLG) with over 32+ pretrained models in 100+ languages and deep interoperability between TensorFlow 2.0 and PyTorch. [[Paper](https://arxiv.org/abs/1910.03771)]
 2. [spacy-transformers](https://github.com/explosion/spacy-transformers) - a library that wrap Hugging Face's Transformers, in order to extract features to power NLP pipelines. It also calculates an alignment so the Transformer features can be related back to actual words instead of just wordpieces.
+3. [FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT and GPT. This repo provides a script and recipe to run the highly optimized transformer-based encoder and decoder component, and it is tested and maintained by NVIDIA.
 
 ### PyTorch
 
