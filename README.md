@@ -190,8 +190,6 @@ For more, please take a look at [ChatGPT Universe](https://github.com/cedrickche
 10. [GLM-130B: An Open Bilingual (Chinese and English) Pre-Trained Model (code and paper)](https://github.com/THUDM/GLM-130B) by Tsinghua University, China [[article](https://keg.cs.tsinghua.edu.cn/glm-130b/posts/glm-130b/)] - One of the major contributions is making LLMs cost affordable using int4 quantization so it can run in limited compute environments.
     > The resultant GLM-130B model offers **significant outperformance over GPT-3 175B** on a wide range of popular English benchmarks while the performance advantage is not observed in OPT-175B and BLOOM-176B. It also consistently and significantly outperforms ERNIE TITAN 3.0 260B -- the largest Chinese language model -- across related benchmarks. Finally, we leverage **a unique scaling property of GLM-130B to reach INT4 quantization, without quantization aware training and with almost no performance loss**, making it the first among 100B-scale models. **More importantly, the property allows its effective inference on 4×RTX 3090 (24G) or 8×RTX 2080 Ti (11G) GPUs, the most ever affordable GPUs required for using 100B-scale models**.
 
-You can run BLOOM-176B/OPT-175B easily on a single machine, without performance degradation. If true, this could be a game changer in enabling people outside of big tech companies being able to use these LLMs.
-
 ### Transformer Reinforcement Learning
 
 Transformer Reinforcement Learning from Human Feedback (RLHF).
