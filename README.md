@@ -109,9 +109,10 @@ Transformer (BERT) ([Source](https://web.archive.org/web/20201217063603/https://
 21. [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416) by Google - They find that instruction finetuning with the above aspects dramatically improves performance on a variety of model classes (PaLM, T5, U-PaLM), prompting setups (zero-shot, few-shot, CoT), and evaluation benchmarks. Flan-PaLM 540B achieves SoTA performance on several benchmarks. They also publicly release [Flan-T5 checkpoints](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints), which achieve strong few-shot performance even compared to much larger models, such as PaLM 62B.
 22. [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682) by Google Research, Stanford University, DeepMind, and UNC Chapel Hill.
 23. [Nonparametric Masked (NPM) Language Modeling](https://arxiv.org/abs/2212.01349) by Meta AI et al. [[code](https://github.com/facebookresearch/NPM)] - Nonparametric models with **500x fewer parameters outperform GPT-3 on zero-shot tasks.**
-> It, crucially, does not have a softmax over a fixed output vocabulary, but instead has a fully nonparametric distribution over phrases. This
+    > It, crucially, does not have a softmax over a fixed output vocabulary, but instead has a fully nonparametric distribution over phrases. This
 is in contrast to a recent (2022) body of work that incorporates nonparametric components in a parametric model.
-> Results show that NPM is significantly more parameter-efficient, outperforming up to 500x larger parametric models and up to 37x larger retrieve-and-generate models.
+    >
+    > Results show that NPM is significantly more parameter-efficient, outperforming up to 500x larger parametric models and up to 37x larger retrieve-and-generate models.
 
 ## Articles
 
