@@ -283,6 +283,7 @@ Interpretability research and AI alignment research.
 - [Discovering Language Model Behaviors with Model-Written Evaluations (paper)](https://arxiv.org/abs/2212.09251) by Anthropic et al. - They automatically generate evaluations with LMs. They discover new cases of inverse scaling where LMs get worse with size. They also find some of the first examples of inverse scaling in RLHF, where more RLHF makes LMs worse.
 - [Transformers learn in-context by gradient descent (paper)](https://arxiv.org/abs/2212.07677) by J von Oswald et al. [[AI Alignment Forum](https://www.alignmentforum.org/posts/firtXAWGdvzXYAh9B/paper-transformers-learn-in-context-by-gradient-descent)]
 - [Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers (paper)](https://arxiv.org/abs/2212.10559v2) by Microsoft Research.
+- [Cognitive Biases in Large Language Models](https://universalprior.substack.com/p/cognitive-biases-in-large-language)
 
 ## Videos
 
