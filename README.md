@@ -281,6 +281,8 @@ Interpretability research and AI alignment research.
 
 - [Transformer Circuits Thread](https://transformer-circuits.pub/) project by Anthropic - Can we reverse engineer transformer language models into human-understandable computer programs? Interpretability research benefits a lot from interactive articles. As part of their effort, they've created several other resources besides their paper like "A Mathematical Framework for Transformer Circuits" and ["toy models of superposition"](https://threadreaderapp.com/thread/1570087876053942272.html).
 - [Discovering Language Model Behaviors with Model-Written Evaluations (paper)](https://arxiv.org/abs/2212.09251) by Anthropic et al. - They automatically generate evaluations with LMs. They discover new cases of inverse scaling where LMs get worse with size. They also find some of the first examples of inverse scaling in RLHF, where more RLHF makes LMs worse.
+- [Transformers learn in-context by gradient descent (paper)](https://arxiv.org/abs/2212.07677) by J von Oswald et al. [[AI Alignment Forum](https://www.alignmentforum.org/posts/firtXAWGdvzXYAh9B/paper-transformers-learn-in-context-by-gradient-descent)]
+- [Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers (paper)](https://arxiv.org/abs/2212.10559v2) by Microsoft Research.
 
 ## Videos
 
