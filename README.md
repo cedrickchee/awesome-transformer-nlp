@@ -263,6 +263,7 @@ Open source effort towards ChatGPT:
   - DeepMind revisited LM scaling laws and found that current LMs are significantly undertrained: they’re not trained on enough data given their large size. They train Chinchilla, a 4x smaller version of their Gopher, on 4.6x more data, and find that Chinchilla outperforms Gopher and other large models on BIG-bench.
   - Reinforcement Learning from Human Feedback (RLHF) has emerged as a key method to finetune LLMs and align them with human values. This involves humans ranking language model outputs sampled for a given input, using these rankings to learn a reward model of human preferences, and then using this as a reward signal to finetune the language model with using RL.
 30. [The Scaling Hypothesis](https://www.gwern.net/Scaling-hypothesis) by Gwern - On GPT-3: meta-learning, scaling, implications, and deep theory.
+31. [AI And The Limits Of Language — An AI system trained on words and sentences alone will never approximate human understanding](https://www.noemamag.com/ai-and-the-limits-of-language/) by Jacob Browning and Yann LeCun - What LLMs like ChatGPT can and cannot do, and why AGI is not here yet.
 
 ## Educational
 
