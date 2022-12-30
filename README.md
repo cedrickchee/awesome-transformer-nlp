@@ -376,6 +376,7 @@ As Jay Alammar put it:
 ## Books
 
 1. [Transfer Learning for Natural Language Processing](https://www.manning.com/books/transfer-learning-for-natural-language-processing) - A book that is a practical primer to transfer learning techniques capable of delivering huge improvements to your NLP models.
+2. [Natural Language Processing with Transformers](https://transformersbook.com/) by Lewis Tunstall, Leandro von Werra, and Thomas Wolf - This practical book shows you how to train and scale these large models using Hugging Face Transformers. The authors use a hands-on approach to teach you how transformers work and how to integrate them in your applications.
 
 ## Other Resources
 
