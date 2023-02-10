@@ -280,6 +280,7 @@ Open source effort towards ChatGPT:
 - [A visual intro to large language models (LLMs) by Jay Alammar/Cohere](https://jalammar.github.io/applying-large-language-models-cohere/) - A high-level look at LLMs and some of their applications for language processing. It covers text generation models (like GPT) and representation models (like BERT).
 - [Interfaces for Explaining Transformer Language Models](https://jalammar.github.io/explaining-transformers/) by Jay Alammar - A gentle visual to Transformer models by looking at input saliency and neuron activation inside neural networks. **Our understanding of why these models work so well, however, still lags behind these developments**.
 - [The GPT-3 Architecture, on a Napkin](https://dugas.ch/artificial_curiosity/GPT_architecture.html)
+- [PicoGPT: GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
 
 ### Tutorials
 
