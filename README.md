@@ -220,6 +220,7 @@ Transformer Reinforcement Learning from Human Feedback (RLHF).
 
 - [Illustrating Reinforcement Learning from Human Feedback](https://huggingface.co/blog/rlhf) - Recent advances with language models (ChatGPT for example) have been powered by RLHF.
 - [Training a Helpful and Harmless Assistant with RLHF (paper)](https://arxiv.org/abs/2204.05862) by Anthropic. [[code and red teaming data](https://huggingface.co/datasets/Anthropic/hh-rlhf), [tweet](https://twitter.com/anthropicai/status/1514277273070825476)]
+- [The Wisdom of Hindsight Makes Language Models Better Instruction Followers (paper)](https://arxiv.org/abs/2302.05206) by UC Berkeley, 2023 - The underlying RLHF algo is complex and requires an additional training pipeline for reward and value networks. They consider an alternative approach, Hindsight Instruction Relabeling (HIR): converting feedback to instruction by relabeling the original one and training the model for better alignment.
 
 #### Tools for RLHF
 
