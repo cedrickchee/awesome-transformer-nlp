@@ -276,6 +276,7 @@ Open source effort towards ChatGPT:
 30. [The Scaling Hypothesis](https://www.gwern.net/Scaling-hypothesis) by Gwern - On GPT-3: meta-learning, scaling, implications, and deep theory.
 31. [AI And The Limits Of Language — An AI system trained on words and sentences alone will never approximate human understanding](https://www.noemamag.com/ai-and-the-limits-of-language/) by Jacob Browning and Yann LeCun - What LLMs like ChatGPT can and cannot do, and why AGI is not here yet.
 32. [Use GPT-3 foundational models incorrectly: reduce costs 40x and increase speed by 5x](https://www.buildt.ai/blog/incorrectusage) - When fine-tuning a model, it is important to keep a few things in mind. There's still a lot to learn about working with these models at scale. We need a better guide.
+33. [The Next Generation Of Large Language Models](https://archive.vn/WFZnG) - It highlights 3 emerging areas: 1) models that can generate their own training data to improve themselves, 2) models that can fact-check themselves, and 3) massive sparse expert models.
 
 ## Educational
 
