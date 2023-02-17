@@ -113,6 +113,7 @@ Transformer (BERT) ([Source](https://web.archive.org/web/20201217063603/https://
 is in contrast to a recent (2022) body of work that incorporates nonparametric components in a parametric model.
     >
     > Results show that NPM is significantly more parameter-efficient, outperforming up to 500x larger parametric models and up to 37x larger retrieve-and-generate models.
+24. [Transformer models: an introduction and catalog](https://arxiv.org/abs/2302.07730) by Xavier Amatriain, 2023 - The goal of this paper is to offer a somewhat comprehensive but simple catalog and classification of the most popular Transformer models. The paper also includes an introduction to the most important aspects and innovation in Transformer models.
 
 ## Articles
 
