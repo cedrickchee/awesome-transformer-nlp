@@ -282,6 +282,7 @@ Open source effort towards ChatGPT:
 32. [Use GPT-3 foundational models incorrectly: reduce costs 40x and increase speed by 5x](https://www.buildt.ai/blog/incorrectusage) - When fine-tuning a model, it is important to keep a few things in mind. There's still a lot to learn about working with these models at scale. We need a better guide.
 33. [The Next Generation Of Large Language Models](https://archive.vn/WFZnG) - It highlights 3 emerging areas: 1) models that can generate their own training data to improve themselves, 2) models that can fact-check themselves, and 3) massive sparse expert models.
 34. [GPT-4 analysis and predictions](https://www.lesswrong.com/posts/qdStMFDMrWAnTqNWL/gpt-4-predictions) - Somehow related, in ["Bing Chat is blatantly, aggressively misaligned"](https://www.lesswrong.com/posts/jtoPawEhLNXNxvgTT/bing-chat-is-blatantly-aggressively-misaligned) post, Gwern think how Bing Chat/Sydney can be so different from ChatGPT and his hypothesis: "Sydney is not a RLHF trained GPT-3 model but a GPT-4 model developed in a hurry". Some have also argued that Sydney performs better on reasoning tasks than ChatGPT/GPT-3.5 and it may be GPT-4.
+35. [Mosaic LLMs (Part 2): GPT-3 quality for <$500k (2022)](https://archive.is/gu2li) - They claimed their [Composer PyTorch framework](https://github.com/mosaicml/composer) ease model training. Now with Colossal-AI framework, I wonder how good is their solution. Until their users train it, I guess everything is purely hypothetical.
 
 ## Educational
 
