@@ -159,6 +159,7 @@ is in contrast to a recent (2022) body of work that incorporates nonparametric c
 15. [Accelerating Large Language Model Decoding with Speculative Sampling (paper)](https://arxiv.org/abs/2302.01318) by DeepMind (2023) - Speculative sampling algorithm enable the generation of multiple tokens from each transformer call. Achieves a 2–2.5x decoding speedup with Chinchilla in a distributed setup, without compromising the sample quality or making modifications to the model itself.
 16. [A Survey on Efficient Training of Transformers (paper)](https://arxiv.org/abs/2302.01107) by Monash University et al., 2023 - The first systematic overview, covering 1) computation efficiency; optimization (i.e., sparse training) and data selection (i.e., token masking), 2) memory efficiency (i.e, data/model parallelism, offloading/use external mem) and 3) hardware/algorithm co-design (i.e, efficient attention, hardware-aware low-precisio).
 17. [Deep Transformers without Shortcuts: Modifying Self-attention for Faithful Signal Propagation (paper)](https://arxiv.org/abs/2302.10322) by DeepMind et al., 2023
+18. [Hyena Hierarchy: Towards Larger Convolutional Language Models (paper)](https://arxiv.org/abs/2302.10866) by Stanford U et al., 2023 - Attention is great. Hyena is an alternative to attention that can learn on sequences **10x longer**, up to **100x faster** than optimized attention, by using implicit long convolutions and gating. [[Tweet](https://twitter.com/MichaelPoli6/status/1633167040130453505)]
 
 ### Generative Pre-Training Transformer (GPT)
 
