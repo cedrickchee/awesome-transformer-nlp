@@ -337,6 +337,10 @@ Interpretability research and AI alignment research.
 
 1. [Sequence to Sequence Learning Animated (Inside Transformer Neural Networks and Attention Mechanisms)](https://youtu.be/GTVgJhSlHEk) by learningcurve.
 
+### General
+
+- [Trials and tribulations of OPT-175B training by Susan Zhang at Meta](https://www.youtube.com/watch?v=p9IxoSkvZ-M) - In this talk, they walk through the development lifecycle of OPT-175B, covering infrastructure and training convergence challenges faced at scale, along with methods of addressing these issues going forward. Amazing that they managed to pull off such a feat. Key takeaway: data matters a lot! Super deep understanding of neural networks nuts&bolts (LR, SGD, etc.) and engineering. Even more than usual time spend staring at the loss curves. Understanding the Chinchilla's scaling law of how the new architecture/algorithms works as you scale up. [[LLM training log](https://github.com/facebookresearch/metaseq/blob/main/projects/OPT/chronicles/OPT175B_Logbook.pdf)]
+
 ## Official BERT Implementations
 
 1. [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT.
