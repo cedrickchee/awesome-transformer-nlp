@@ -325,6 +325,7 @@ Interpretability research and AI alignment research.
 - [Tracr: Compiled Transformers as a Laboratory for Interpretability (paper)](https://arxiv.org/abs/2301.05062) (2023) by DeepMind - TRACR (TRAnsformer Compiler for RASP) is a compiler for converting RASP programs (DSL for Transformers) into weights of a GPT-like model. Usually, we train Transformers to encode algorithms in their weights. With TRACR, we go in the reverse direction; compile weights **directly** from explicit code. Why do this? Accelerate interpretability research. Think of it like formal methods (from software eng.) on Transformers. It can be difficult to check if the explanation an interpretability tool provides is correct. [[Tweet](https://twitter.com/davlindner/status/1613900577804525573), [code](https://github.com/deepmind/tracr)]
 - [Yann LeCun's unwavering opinion on current (auto-regressive) LLMs (Tweet)](https://web.archive.org/web/20230213173604/https://twitter.com/ylecun/status/1625118108082995203)
 - [Core Views on AI Safety: When, Why, What, and How](https://www.anthropic.com/index/core-views-on-ai-safety) by Anthropic, 2023.
+- [Personalisation within bounds: A risk taxonomy and policy framework for the alignment of large language models with personalised feedback](https://arxiv.org/abs/2303.05453) by University of Oxford, 2023. [[Tweet](https://twitter.com/hannahrosekirk/status/1634228684893700096)]
 
 ## Videos
 
