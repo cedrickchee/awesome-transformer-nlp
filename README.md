@@ -115,6 +115,7 @@ is in contrast to a recent (2022) body of work that incorporates nonparametric c
     > Results show that NPM is significantly more parameter-efficient, outperforming up to 500x larger parametric models and up to 37x larger retrieve-and-generate models.
 24. [Transformer models: an introduction and catalog](https://arxiv.org/abs/2302.07730) by Xavier Amatriain, 2023 - The goal of this paper is to offer a somewhat comprehensive but simple catalog and classification of the most popular Transformer models. The paper also includes an introduction to the most important aspects and innovation in Transformer models.
 25. [Foundation Models for Decision Making: Problems, Methods, and Opportunities](https://arxiv.org/abs/2303.04129) by Google Research et al., 2023 - A report of recent approaches (i.e., conditional generative modeling, RL, prompting) that ground pre-trained models (i.e., LMs) in practical decision making agents. Models can serve world dynamics or steer decisions.
+26. [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf) by OpenAI, 2023.
 
 ## Articles
 
