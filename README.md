@@ -182,6 +182,7 @@ is in contrast to a recent (2022) body of work that incorporates nonparametric c
   - Handle more complex intents — you can get even more creative with how you make use of its capabilities now.
   - Higher quality writing — clearer, more engaging, and more compelling content.
   - Better at longer form content generation.
+15. [GPT-4 research](https://openai.com/research/gpt-4) landing page.
 
 #### ChatGPT
 
