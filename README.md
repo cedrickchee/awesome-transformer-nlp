@@ -402,6 +402,11 @@ GPT and/or BERT implementations.
 
 1. [soskek/bert-chainer](https://github.com/soskek/bert-chainer) - Chainer implementation of "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding".
 
+### Other
+
+- [Cformers](https://github.com/NolanoOrg/cformers) - SoTA Transformers with C-backend for fast inference on your CPU.
+- [Transformers.js](https://github.com/xenova/transformers.js) - Run 🤗 Transformers in your browser.
+
 ## Transfer Learning in NLP
 
 <details>
