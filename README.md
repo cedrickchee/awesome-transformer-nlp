@@ -163,6 +163,7 @@ is in contrast to a recent (2022) body of work that incorporates nonparametric c
 17. [Deep Transformers without Shortcuts: Modifying Self-attention for Faithful Signal Propagation (paper)](https://arxiv.org/abs/2302.10322) by DeepMind et al., 2023
 18. [Hyena Hierarchy: Towards Larger Convolutional Language Models (paper)](https://arxiv.org/abs/2302.10866) by Stanford U et al., 2023 - Attention is great. Hyena is an alternative to attention that can learn on sequences **10x longer**, up to **100x faster** than optimized attention, by using implicit long convolutions and gating. [[Tweet](https://twitter.com/MichaelPoli6/status/1633167040130453505)]
 19. [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness (paper)](https://arxiv.org/abs/2205.14135) by Stanford University et al., 2022 - Transformers have grown deeper and wider, but training them on long sequences remains difficult. The attention layer at their heart is the compute and memory bottleneck: doubling the sequence length would quadruple the runtime and memory requirements. FlashAttention is a new algorithm to speed up attention and reduce its memory footprint—without any approximation. It enables training LLMs with longer context. [[code](https://github.com/HazyResearch/flash-attention)]
+20. [Jump to Conclusions: Short-Cutting Transformers With Linear Transformations (paper)](https://arxiv.org/abs/2303.09435v1) by Google Research et al., 2023. [[Tweet](https://twitter.com/LChoshen/status/1637799047430905856)]
 
 ### Generative Pre-Training Transformer (GPT)
 
