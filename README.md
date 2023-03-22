@@ -236,6 +236,7 @@ ChatGPT among the LLMs [^1]
 32. [Larger language models do in-context learning (ICL) differently (paper)](https://arxiv.org/abs/2303.03846) by Google Research, 2023 - Overriding semantic priors when presented with enough flipped labels is an emergent ability of scale. LLMs learn better mappings when ICL labels are semantically unrelated to inputs (i.e., apple/orange, negative/positive). Fine-tuning to follow instruction helps both. [[Tweet](https://twitter.com/JerryWeiAI/status/1633548780619571200)]
 33. [The BigScience ROOTS Corpus: A 1.6TB Composite Multilingual Dataset (paper)](https://arxiv.org/abs/2303.03915) by Hugging Face et al., 2023 - Documents the data creation and curation efforts of Responsible Open-science Open-collaboration Text Source (ROOTS) corpus, a dataset used to train BLOOM. [[Tweet](https://twitter.com/arankomatsuzaki/status/1633282997020672000)]
 34. [PanGu-Σ: Towards Trillion Parameter Language Model with Sparse Heterogeneous Computing (paper)](https://arxiv.org/abs/2303.10845) by Huawei Technologies, 2023 - They develop a system that trained a trillion-parameter language model on a cluster of Ascend 910 AI processors and MindSpore framework. This resulted in a 6.3x increase in training throughput through heterogeneous computing.
+35. [Context-faithful Prompting for Large Language Models (paper)](https://arxiv.org/abs/2303.11315) by USC et al., 2023
 
 ### Transformer Reinforcement Learning
 
