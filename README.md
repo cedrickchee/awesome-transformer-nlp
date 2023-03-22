@@ -184,6 +184,7 @@ is in contrast to a recent (2022) body of work that incorporates nonparametric c
   - Higher quality writing — clearer, more engaging, and more compelling content.
   - Better at longer form content generation.
 15. [GPT-4 research](https://openai.com/research/gpt-4) landing page.
+16. [A Comprehensive Capability Analysis of GPT-3 and GPT-3.5 Series Models](https://arxiv.org/abs/2303.10420) by Fudan University et al., 2023.
 
 #### ChatGPT
 
