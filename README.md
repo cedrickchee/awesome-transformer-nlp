@@ -329,6 +329,7 @@ Interpretability research and AI alignment research.
 - [Yann LeCun's unwavering opinion on current (auto-regressive) LLMs (Tweet)](https://web.archive.org/web/20230213173604/https://twitter.com/ylecun/status/1625118108082995203)
 - [Core Views on AI Safety: When, Why, What, and How](https://www.anthropic.com/index/core-views-on-ai-safety) by Anthropic, 2023.
 - [Personalisation within bounds: A risk taxonomy and policy framework for the alignment of large language models with personalised feedback](https://arxiv.org/abs/2303.05453) by University of Oxford, 2023. [[Tweet](https://twitter.com/hannahrosekirk/status/1634228684893700096)]
+- [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models (paper)](https://arxiv.org/abs/2303.10130) by OpenAI et al., 2023 - The paper argues GPT is a General Purpose Technology.
 
 ## Videos
 
