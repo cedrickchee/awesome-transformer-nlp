@@ -43,6 +43,7 @@ Transformer (BERT) ([Source](https://web.archive.org/web/20201217063603/https://
   - [Keras](#keras)
   - [TensorFlow](#tensorflow)
   - [Chainer](#chainer)
+  - [Other](#other)
 - [Transfer Learning in NLP](#transfer-learning-in-nlp)
 - [Books](#books)
 - [Other Resources](#other-resources)
@@ -408,6 +409,7 @@ GPT and/or BERT implementations.
 
 - [Cformers](https://github.com/NolanoOrg/cformers) - SoTA Transformers with C-backend for fast inference on your CPU.
 - [Transformers.js](https://github.com/xenova/transformers.js) - Run 🤗 Transformers in your browser.
+- [Apple Neural Engine (ANE) Transformers](https://github.com/apple/ml-ane-transformers) - Transformer architecture optimized for Apple Silicon.
 
 ## Transfer Learning in NLP
 
