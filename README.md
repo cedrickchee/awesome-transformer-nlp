@@ -407,8 +407,10 @@ GPT and/or BERT implementations.
 
 ### Other
 
+- [llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++.
 - [Cformers](https://github.com/NolanoOrg/cformers) - SoTA Transformers with C-backend for fast inference on your CPU.
 - [Transformers.js](https://github.com/xenova/transformers.js) - Run 🤗 Transformers in your browser.
+- [Alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Run a fast ChatGPT-like model locally on your device.
 - [Apple Neural Engine (ANE) Transformers](https://github.com/apple/ml-ane-transformers) - Transformer architecture optimized for Apple Silicon.
 
 ## Transfer Learning in NLP
