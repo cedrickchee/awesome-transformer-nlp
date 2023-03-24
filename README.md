@@ -189,6 +189,7 @@ is in contrast to a recent (2022) body of work that incorporates nonparametric c
   - Better at longer form content generation.
 15. [GPT-4 research](https://openai.com/research/gpt-4) landing page.
 16. [A Comprehensive Capability Analysis of GPT-3 and GPT-3.5 Series Models](https://arxiv.org/abs/2303.10420) by Fudan University et al., 2023.
+17. [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712) by Microsoft Research, 2023 - There are completely mind-blowing examples in the paper.
 
 #### ChatGPT
 
