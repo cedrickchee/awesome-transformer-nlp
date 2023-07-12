@@ -170,6 +170,7 @@ is in contrast to a recent (2022) body of work that incorporates nonparametric c
 23. [LongNet: Scaling Transformers to 1,000,000,000 Tokens (paper)](https://arxiv.org/abs/2307.02486) by Microsoft Research, 2023.
 24. [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention](https://vllm.ai/) by UC Berkeley et al., 2023 - The improved throughput comes from VRAM savings on an otherwise close to fullly utilized GPU.
 25. [The Secret Sauce behind 100K context window in LLMs: all tricks in one place](https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
+26. [Unlimiformer: Long-Range Transformers with Unlimited Length Input (paper)](https://arxiv.org/abs/2305.01625) by CMU, 2023.
 
 ### Generative Pre-Training Transformer (GPT)
 
