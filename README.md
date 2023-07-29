@@ -1,6 +1,6 @@
 # Awesome Transformer & Transfer Learning in NLP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This repository contains a hand-curated of great machine (deep) learning resources for Natural Language Processing (NLP) with a focus on Generative Pre-trained Transformer (GPT), Bidirectional Encoder Representations from Transformers (BERT), attention mechanism, Transformer architectures/networks, ChatGPT, and transfer learning in NLP.
+This repository contains a hand-curated list of great machine (deep) learning resources for Natural Language Processing (NLP) with a focus on Generative Pre-trained Transformer (GPT), Bidirectional Encoder Representations from Transformers (BERT), attention mechanism, Transformer architectures/networks, ChatGPT, and transfer learning in NLP.
 
 ![Transformer](https://user-images.githubusercontent.com/145605/206787465-bdfae6e0-c850-46fc-808d-a51c97644a9e.png#gh-dark-mode-only)
 ![Transformer](https://user-images.githubusercontent.com/145605/79639176-9ca33d80-81bc-11ea-8cde-f7ff68ee2042.png#gh-light-mode-only)
