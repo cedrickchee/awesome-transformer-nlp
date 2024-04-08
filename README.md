@@ -174,6 +174,7 @@ is in contrast to a recent (2022) body of work that incorporates nonparametric c
 25. [The Secret Sauce behind 100K context window in LLMs: all tricks in one place](https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
 26. [Unlimiformer: Long-Range Transformers with Unlimited Length Input (paper)](https://arxiv.org/abs/2305.01625) by CMU, 2023.
 27. [PaLM 2 Technical Report (PDF)](https://ai.google/static/documents/palm2techreport.pdf) by Google, 2023.
+28. [Mixture-of-Depths (MoD): Dynamically allocating compute in transformer-based language models](https://arxiv.org/abs/2404.02258) by Google DeepMind et al., 2024 - A lot of similarities to Mixture of Experts (MoE). What's the difference between MoE and MoD? MoE route tokens to multiple experts, while MoD route to a single expert which can be dynamically skipped. Also, did they introduce "dropout" layer designed for transformer? [ELI5 version: [Mixture of Depths Meets Mixture of Experts](https://lifeinthesingularity.com/p/googles-breakthroughs-in-ai-design)]
 
 ### Generative Pre-Training Transformer (GPT)
 
