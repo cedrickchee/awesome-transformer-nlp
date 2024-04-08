@@ -23,7 +23,7 @@ Transformer (BERT) ([Source](https://web.archive.org/web/20201217063603/https://
 - [Papers](#papers)
 - [Articles](#articles)
   - [BERT and Transformer](#bert-and-transformer)
-  - [Attention Concept](#attention-concept)
+  - [Attention Mechanism](#attention-mechanism)
   - [Transformer Architecture](#transformer-architecture)
   - [Generative Pre-Training Transformer (GPT)](#generative-pre-training-transformer-gpt)
     - [ChatGPT](#chatgpt)
@@ -135,7 +135,7 @@ is in contrast to a recent (2022) body of work that incorporates nonparametric c
 9. [Visual Paper Summary: ALBERT (A Lite BERT)](https://amitness.com/2020/02/albert-visual-summary/)
 10. [Cramming: Training a Language Model on a Single GPU in One Day (paper)](https://arxiv.org/abs/2212.14034) (2022) - While most in the community are asking how to push the limits of extreme computation, we ask the opposite question: How far can we get with a single GPU in just one day? ... Through the lens of scaling laws, we categorize a range of recent improvements to training and architecture and discuss their merit and practical applicability (or lack thereof) for the limited compute setting.
 
-### Attention Concept
+### Attention Mechanism
 
 1. [The Annotated Transformer by Harvard NLP Group](http://nlp.seas.harvard.edu/2018/04/03/attention.html) - Further reading to understand the "Attention is all you need" paper.
 2. [Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html) - Attention guide by Lilian Weng from OpenAI.
