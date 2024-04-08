@@ -137,6 +137,8 @@ is in contrast to a recent (2022) body of work that incorporates nonparametric c
 
 ### Attention Mechanism
 
+[![Visualizing Attention, a Transformer's Heart](https://img.youtube.com/vi/eMlx5fFNoYc/0.jpg)](https://www.youtube.com/watch?v=eMlx5fFNoYc)
+
 1. [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473v1) by Dzmitry Bahdanau, KyungHyun Cho, and Yoshua Bengio, 2014 - [Bahdanau invented the content-based neural attention that is now a core tool in deep-learning-based NLP (language models)](https://archive.is/JxMmF#selection-99.0-103.76). A disadvantage of fixed-length context vector design is incapability of remembering long sentences. The attention mechanism was born to resolve this problem. It was born to help memorize long input sentences in language translation. [[Bahdanau deserve the praise](https://archive.is/3DwY5)]
 2. [The Annotated Transformer by Harvard NLP Group](http://nlp.seas.harvard.edu/2018/04/03/attention.html) - Further reading to understand the "Attention is all you need" paper.
 3. [Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html) - Attention guide by Lilian Weng from OpenAI.
