@@ -139,6 +139,8 @@ is in contrast to a recent (2022) body of work that incorporates nonparametric c
 
 [![Visualizing Attention, a Transformer's Heart](https://img.youtube.com/vi/eMlx5fFNoYc/0.jpg)](https://www.youtube.com/watch?v=eMlx5fFNoYc)
 
+<sup>Visualizing Attention, a Transformer's Heart</sup>
+
 1. [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473v1) by Dzmitry Bahdanau, KyungHyun Cho, and Yoshua Bengio, 2014 - [Bahdanau invented the content-based neural attention that is now a core tool in deep-learning-based NLP (language models)](https://archive.is/JxMmF#selection-99.0-103.76). A disadvantage of fixed-length context vector design is incapability of remembering long sentences. The attention mechanism was born to resolve this problem. It was born to help memorize long input sentences in language translation. [[Bahdanau deserve the praise](https://archive.is/3DwY5)]
 2. [The Annotated Transformer by Harvard NLP Group](http://nlp.seas.harvard.edu/2018/04/03/attention.html) - Further reading to understand the "Attention is all you need" paper.
 3. [Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html) - Attention guide by Lilian Weng from OpenAI.
@@ -182,6 +184,10 @@ is in contrast to a recent (2022) body of work that incorporates nonparametric c
 28. [Mixture-of-Depths (MoD): Dynamically allocating compute in transformer-based language models](https://arxiv.org/abs/2404.02258) by Google DeepMind et al., 2024 - MoD method scale in depth dimension while keeping the FLOPs constant (similarly how Mixture of Experts (MoE) does it in width). MoD model can learn to route more complex tokens through more layers (similarly how experts in MoE can specialize to certain domains). The group explores how to optimize compute budget and improve efficiency without sacrificing performance. Results: MoD matches baseline performance with 66% faster training. Now, the question is, can it scale above 1B tokens. They tested on 500M tokens. [ELI5 version: [Mixture of Depths Meets Mixture of Experts](https://lifeinthesingularity.com/p/googles-breakthroughs-in-ai-design)]
 
 ### Generative Pre-Training Transformer (GPT)
+
+[![LLM visualization](https://github.com/cedrickchee/awesome-transformer-nlp/assets/145605/1e5528ba-b41e-43d2-ba2e-6bcd126efdbe)](https://bbycroft.net/llm)
+
+<sup>GPT visualization</sup>
 
 1. [Better Language Models and Their Implications](https://openai.com/blog/better-language-models/).
 2. [Improving Language Understanding with Unsupervised Learning](https://blog.openai.com/language-unsupervised/) - this is an overview of the original OpenAI GPT model.
