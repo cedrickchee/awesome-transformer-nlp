@@ -340,6 +340,7 @@ Open source effort towards ChatGPT:
 34. [GPT-4 analysis and predictions](https://www.lesswrong.com/posts/qdStMFDMrWAnTqNWL/gpt-4-predictions) - Somehow related, in ["Bing Chat is blatantly, aggressively misaligned"](https://www.lesswrong.com/posts/jtoPawEhLNXNxvgTT/bing-chat-is-blatantly-aggressively-misaligned) post, Gwern think how Bing Chat/Sydney can be so different from ChatGPT and his hypothesis: "Sydney is not a RLHF trained GPT-3 model but a GPT-4 model developed in a hurry". Some have also argued that Sydney performs better on reasoning tasks than ChatGPT/GPT-3.5 and it may be GPT-4.
 35. [Mosaic LLMs (Part 2): GPT-3 quality for <$500k (2022)](https://archive.is/gu2li) - They claimed their [Composer PyTorch framework](https://github.com/mosaicml/composer) ease model training. Now with Colossal-AI framework, I wonder how good is their solution. Until their users train it, I guess everything is purely hypothetical.
 36. [I made a transformer by hand (no training!)](https://vgel.me/posts/handmade-transformer/) (2023) - Make a transformer to predict a simple sequence manually — not by training one, or using pretrained weights, but instead by **assigning each weight, by hand**, over an evening.
+37. [Finetune Llama 3.1 on GCP for production use cases](https://www.zenml.io/blog/how-to-finetune-llama-3-1-with-zenml)
 
 ## Educational
 
