@@ -115,6 +115,7 @@ is in contrast to a recent (2022) body of work that incorporates nonparametric c
 24. [Transformer models: an introduction and catalog](https://arxiv.org/abs/2302.07730) by Xavier Amatriain, 2023 - The goal of this paper is to offer a somewhat comprehensive but simple catalog and classification of the most popular Transformer models. The paper also includes an introduction to the most important aspects and innovation in Transformer models.
 25. [Foundation Models for Decision Making: Problems, Methods, and Opportunities](https://arxiv.org/abs/2303.04129) by Google Research et al., 2023 - A report of recent approaches (i.e., conditional generative modeling, RL, prompting) that ground pre-trained models (i.e., LMs) in practical decision making agents. Models can serve world dynamics or steer decisions.
 26. [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf) by OpenAI, 2023.
+27. [The Llama 3 Herd of Models](https://ai.meta.com/research/publications/the-llama-3-herd-of-models/) by Llama Team, AI @ Meta, Jul 2024 - The paper, a oft-overlooked component of the project, proved to be just as vital, if not more so, than the model itself, and its significance came as a complete surprise. A masterpiece in its own right, the paper presented a treasure trove of detailed information on the model's pre-training and post-training processes, offering insights that were both profound and practical. [[Discussion](https://old.reddit.com//r/LocalLLaMA/comments/1eabf4l)]
 
 ## Articles
 
