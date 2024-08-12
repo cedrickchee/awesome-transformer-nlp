@@ -345,6 +345,20 @@ Open source effort towards ChatGPT:
 
 ## Educational
 
+<div style="width: 200px;">
+<table>
+<tr>
+    <td></td>
+    <td colspan="2"><video width="100%" src='https://github.com/poloclub/transformer-explainer/assets/5067740/5c2d6a9d-2cbf-4b01-9ce1-bdf8e190dc42'></td>
+    <td></td>
+</tr>
+<tr>    
+    <td colspan="2" align="right"><a href="http://poloclub.github.io/transformer-explainer">Live Demo</a></td>
+    <td colspan="2"><a href="https://youtu.be/ECR4oAwocjs">Demo Video</a></td>
+</tr>
+</table>
+</div>
+
 - [minGPT](https://github.com/karpathy/minGPT) by Andrej Karpathy - A PyTorch re-implementation of GPT, both training and inference. minGPT tries to be small, clean, interpretable and educational, as most of the currently available GPT model implementations can a bit sprawling. GPT is not a complicated model and this implementation is appropriately about 300 lines of code.
   - [nanoGPT](https://github.com/karpathy/nanoGPT) - It's a re-write of minGPT. Still under active development. The associated and ongoing video lecture series _[Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)_, build GPT, from scratch, in code and aspire to spell everything out. Note that Karpathy's bottom up approach and fast.ai teaching style work well together. (FYI, fast.ai has both top-down ("part 1") and bottom-up ("part 2") approach.)
 - [A visual intro to large language models (LLMs) by Jay Alammar/Cohere](https://jalammar.github.io/applying-large-language-models-cohere/) - A high-level look at LLMs and some of their applications for language processing. It covers text generation models (like GPT) and representation models (like BERT).
