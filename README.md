@@ -12,6 +12,7 @@ This repository contains a hand-curated list of great machine (deep) learning re
   <sup>Transformer (<a href="https://web.archive.org/web/20201217063603/https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/blocks/bert-encoder">Source</a>)</sup>
 </p>
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for multi-agent orchestration using transformer-based LLMs. MIT licensed.
 # Table of Contents
 
 <details>
